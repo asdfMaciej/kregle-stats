@@ -4,6 +4,8 @@ from scipy.interpolate import interp1d
 import numpy as np
 from statistics import mean
 from pprint import pprint
+import operator
+
 
 class Zawodnik:
 	def __init__(self, n, k, p, z, x, w, gender, age, kreg):
@@ -31,7 +33,7 @@ class Zawodnik:
 		if self.k == 'wrzos sieraków': self.k = 'kk wrzos sieraków'
 		if self.k == 'pilica tomaszów mazowiecki': self.k = 'ks pilica tomaszów mazowiecki'
 		if self.k == 'oksit gmina puck': self.k = 'oksit puck'
-		if self.k in ('alfa vector tarnowo podgórne', 'ks alfa vector tarnowo podg.', 'alfa-vector tarnowo podgórne'): self.k = 'ks alfa-vector tarnowo podgórne'
+		if self.k in ('ks alfa vector tarnowo podgórne', 'alfa vector tarnowo podgórne', 'ks alfa vector tarnowo podg.', 'alfa-vector tarnowo podgórne'): self.k = 'ks alfa-vector tarnowo podgórne'
 		if self.k == 'ks pilica tomaszów maz.': self.k = 'ks pilica tomaszów mazowiecki'
 		if self.k == 'sokół brzesko': self.k = 'tkkf sokół brzesko'
 		if self.k in ('kk dziewiatka-amica wronki', 'kk dziewiątka amica wronki', 'kk dziewiątka wronki',
@@ -46,6 +48,8 @@ class Zawodnik:
 		if self.k == 'uks 1 świebodzice': self.k = 'uks jedynka świebodzice'
 		if self.k == 'osir vector tarnowo podgóne': self.k = 'osir vector tarnowo podgórne'  # ...
 		if self.k == 'ks osir vector tarnowo podgórne': self.k = 'osir vector tarnowo podgórne'
+		if self.k == 'czarna kula poznań': self.k = 'ks czarna kula poznań'
+		if self.k == 'ks polinia 1912 leszno': self.k = 'ks polonia 1912 leszno'
 		if self.n == 'Jan Klemeński': self.n = 'Jan Klemenski'
 		self.n = ' '.join(self.n.split())  # removes double spaces
 		if (len(self.n.split()) > 2):
@@ -212,6 +216,7 @@ fajni_mezczyzni = [0] * len(nowe)
 
 
 dict_krol = {
+	'wszystko':[[], [], [], []],
 	'Młodziczki':{'wszystko':[[], [], [], []]}, 'Młodzicy':{'wszystko':[[], [], [], []]},
 	'Juniorki młodsze':{'wszystko':[[], [], [], []]}, 'Juniorzy młodsi':{'wszystko':[[], [], [], []]},
 	'Mężczyźni':{'wszystko':[[], [], [], []]}, 'Kobiety':{'wszystko':[[], [], [], []]}
@@ -219,41 +224,102 @@ dict_krol = {
 for z in zawodnicy:
 	if z.w < 360: # pls
 		continue
-	if (z.k not in dict_krol[z.age]):
+	if z.k not in dict_krol[z.age]:
 		dict_krol[z.age][z.k] = [[], [], [], []]
 	if z.k not in dict_krol:
 		dict_krol[z.k] = {'wszystko':[[], [], [], []]}
 	if z.age not in dict_krol[z.k]:
 		dict_krol[z.k][z.age] = [[], [], [], []]
+	if z.kreg not in dict_krol:
+		dict_krol[z.kreg] = {'wszystko':[[], [], [], []]}
+	if z.age not in dict_krol[z.kreg]:
+		dict_krol[z.kreg][z.age] = [[], [], [], []]
+	if z.kreg not in dict_krol[z.age]:
+		dict_krol[z.age][z.kreg] = [[], [], [], []]
 
 	ehh = [z.w, z.p, z.z, z.x]
 	for n in range(4):
-		dict_krol[z.k][z.age][n].append(ehh[n])
-		dict_krol[z.k]['wszystko'][n].append(ehh[n])
-		dict_krol[z.age][z.k][n].append(ehh[n])
-		dict_krol[z.age]['wszystko'][n].append(ehh[n])
+		if z.age not in ('Kobiety', 'Mężczyźni'):  # wole pominac przy analizie
+			dict_krol[z.k][z.age][n].append(int(ehh[n]))
+			dict_krol[z.k]['wszystko'][n].append(int(ehh[n]))
+			dict_krol[z.age][z.k][n].append(int(ehh[n]))
+			dict_krol[z.age]['wszystko'][n].append(int(ehh[n]))
+			dict_krol[z.age][z.kreg][n].append(int(ehh[n]))
+			dict_krol[z.kreg]['wszystko'][n].append(int(ehh[n]))
+			dict_krol['wszystko'][n].append(int(ehh[n]))
+
 
 
 for key, value in dict_krol.items():
 	pass
 	#print(key)
 
-print('Średni wynik juniorów młodszych z danego klubu: ')
+print('Średni wynik wszystkich z danego klubu: ')
 print('')
 nieudane = {}
-for klub, itemy in dict_krol['Juniorzy młodsi'].items():
-	sr_w = str(round(mean(itemy[0])))
-	starty = str(len(itemy[0]))
-	if not (len(itemy[0]) < 30):
+a_wiekowe = [
+	'Młodziczki', 'Młodzicy', 'Juniorzy młodsi', 'Juniorki młodsze', 'Mężczyźni', 'Kobiety',	
+]
+a_kregielnie = ['Wronki', 'Gostyń', 'Leszno', 'Tuchola', 'Sieraków', 'Tarnowo', 'Tomaszów']
+"""for klub, itemy in dict_krol.items():
+	if (klub in a_wiekowe) or (klub in a_kregielnie):
+		continue
+	try:
+		_len = 0
+		if klub == 'wszystko':
+			sr_w = str(round(mean(itemy[0])))
+			_len = len(itemy[0])
+		else:
+			sr_w = str(round(mean(itemy['wszystko'][0])))
+			_len = len(itemy['wszystko'][0])
+	except:
+		continue
+	starty = str(_len)
+	if not (_len < 25):
 		print(klub + " --- "+sr_w+" (n startow: "+starty+")")
 	else:
-		nieudane[klub] = starty
+		nieudane[klub] = starty"""
+
+
+"""for kregielnia, itemy in dict_krol.items():
+	if kregielnia not in a_kregielnie:
+		continue
+	for kategoria in a_wiekowe:
+		if kategoria in ('Mężczyźni', 'Kobiety'):
+			continue
+		if kregielnia in dict_krol[kategoria]:
+			print(kategoria + "," + kregielnia + "," + str(round(mean(dict_krol[kategoria][kregielnia][2]))))"""
+
+a_zawo = {}
+a_kategorie = {}
+for z in zawodnicy:
+	if z.age in ('Mężczyźni', 'Kobiety'):
+		continue
+	if z.k not in a_zawo: a_zawo[z.k] = 0
+	if z.k not in a_kategorie: a_kategorie[z.k] = {}
+	if z.age not in a_kategorie[z.k]: a_kategorie[z.k][z.age] = 0
+	a_zawo[z.k] += 1
+	a_kategorie[z.k][z.age] += 1
+
+a_procent = {}
+for klub in a_kategorie:
+	a_procent[klub] = 0
+	try:
+		procent_juniorow =  float(a_kategorie[klub]['Młodziczki']/a_zawo[klub]*100)
+		a_procent[klub] = procent_juniorow
+	except:
+		continue
+
+sorted_zaw = sorted(a_procent.items(), key=operator.itemgetter(1))
+for z in sorted_zaw[::-1]:
+	print(z[0] + " - " + str(z[1]))
+"""
 print('')
 print(" ---------------------------------------------- ")
 print("Za mało startów: ")
 for klub, ilosc in nieudane.items():
 	print(ilosc + "  -  " + klub)
-
+"""
 #plt.plot(wynik, pdoz, "-")
 fig, ax = plt.subplots()
 #ax.bar(nowe, fajne_kobiety)
