@@ -301,27 +301,41 @@ for z in zawodnicy:
 	a_zawo[z.k] += 1
 	a_kategorie[z.k][z.age] += 1
 
-a_procent = {}
-for klub in a_kategorie:
-	a_procent[klub] = 0
-	try:
-		procent_juniorow =  float(a_kategorie[klub]['Młodziczki']/a_zawo[klub]*100)
-		a_procent[klub] = procent_juniorow
-	except:
-		continue
+a_procent = {'Juniorzy młodsi':{}, 'Juniorki młodsze':{}, 'Młodzicy':{}, 'Młodziczki':{}}
+for kateg in ('Juniorzy młodsi', 'Juniorki młodsze', 'Młodzicy', 'Młodziczki'):
+	for klub in a_kategorie:
+		a_procent[kateg][klub] = 0
+		try:
+			procent_juniorow =  float(a_kategorie[klub][kateg]/a_zawo[klub]*100)
+			a_procent[kateg][klub] = procent_juniorow
+		except:
+			continue
 
-sorted_zaw = sorted(a_procent.items(), key=operator.itemgetter(1))
-for z in sorted_zaw[::-1]:
-	print(z[0] + " - " + str(z[1]))
-"""
-print('')
-print(" ---------------------------------------------- ")
-print("Za mało startów: ")
-for klub, ilosc in nieudane.items():
-	print(ilosc + "  -  " + klub)
-"""
+sorted_mlm = sorted(a_procent['Młodzicy'].items(), key=operator.itemgetter(0))[::-1]
+sorted_mlf = sorted(a_procent['Młodziczki'].items(), key=operator.itemgetter(0))[::-1]
+sorted_jm = sorted(a_procent['Juniorzy młodsi'].items(), key=operator.itemgetter(0))[::-1]
+sorted_jf = sorted(a_procent['Juniorki młodsze'].items(), key=operator.itemgetter(0))[::-1]
+klb = []
+a1 = []
+a2 = []
+a3 = []
+a4 = []
+cyfry = list(range(len(sorted_mlm)))
+for kz in sorted_mlm:
+	klb.append(kz[0].replace(' ', '\n').replace('-','\n'))  # human readiblity
+	a1.append(kz[1])
+for kz in sorted_mlf: a2.append(kz[1])
+for kz in sorted_jm: a3.append(kz[1])
+for kz in sorted_jf: a4.append(kz[1])
+
+xD = np.array
 #plt.plot(wynik, pdoz, "-")
 fig, ax = plt.subplots()
 #ax.bar(nowe, fajne_kobiety)
-ax.bar(nowe, fajni_mezczyzni)
-#plt.show()
+ax.bar(cyfry, a1, label='Młodzicy')
+ax.bar(cyfry, a2, bottom=a1, label='Młodziczki')
+ax.bar(cyfry, a3, bottom=xD(a1)+xD(a2), label='Juniorzy młodsi')
+ax.bar(cyfry, a4, bottom=xD(a1)+xD(a2)+xD(a3), label='Juniorki młodsze')
+plt.xticks(cyfry, klb)
+plt.legend(loc='upper left')
+plt.show()
