@@ -1,21 +1,10 @@
 Imię/nazwisko,Klub,Płeć,Kategoria wiekowa,Pełne,Zbierane,Dziury,Wynik,Kręgielnia,Turniej,Sezon,Miesiąc
-Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,218,2,603,1144,Gostyń,Memoriał,2015/16,11
-Aleksander Nowacki,mlks tucholanka tuchola,M,Juniorzy młodsi,181,7,548,1089,Gostyń,Memoriał,2015/16,11
-Dawid Łuczak,mlks tucholanka tuchola,M,Juniorzy młodsi,170,6,542,1082,Gostyń,Memoriał,2015/16,11
-Igor Szydłowski,bosir brzesko,M,Juniorzy młodsi,188,8,551,1078,Gostyń,Memoriał,2015/16,11
-Jakub Tomczyk,bosir brzesko,M,Juniorzy młodsi,185,4,541,1063,Gostyń,Memoriał,2015/16,11
-Szymon Kaliski,ks polonia 1912 leszno,M,Juniorzy młodsi,194,2,539,1059,Gostyń,Memoriał,2015/16,11
-Kacper Michalak,ks start gostyń,M,Juniorzy młodsi,180,1,536,1058,Gostyń,Memoriał,2015/16,11
-Patryk Lukaszewski,ks start gostyń,M,Juniorzy młodsi,172,9,535,1055,Gostyń,Memoriał,2015/16,11
-Szymon Kosz,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,152,6,511,1035,Gostyń,Memoriał,2015/16,11
-Jędrzej Nowak,ks start gostyń,M,Juniorzy młodsi,113,9,481,1014,Gostyń,Memoriał,2015/16,11
-Bartosz Pośladek,tkkf sokół brzesko,M,Juniorzy młodsi,123,15,478,1009,Gostyń,Memoriał,2015/16,11
-Kacper Kuchnowski,ks zatoka puck,M,Juniorzy młodsi,397,220,4,617,Wronki,Puchar Wronek,2016/17,3
 Kacper Kuchnowski,ks zatoka puck,M,Juniorzy młodsi,397,220,4,617,Wronki,Puchar Wronek,2016/17,3
 Paweł Osiński,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,382,233,0,615,Leszno,Memoriał,2013/14,3
 Jakub Cwojdziński,osir vector tarnowo podgórne,M,Juniorzy młodsi,386,228,1,614,Leszno,Memoriał,2016/17,4
 Marek Gierszewski,mlks tucholanka tuchola,M,Juniorzy młodsi,383,226,5,609,Leszno,Memoriał,2014/15,4
 Patrycja Grzelak,kk dziewiątka-amica wronki,F,Juniorki młodsze,384,223,3,607,Gostyń,Memoriał,2014/15,11
+Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,385,218,2,603,Gostyń,Memoriał,2015/16,11
 Szymon Kosz,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,394,201,2,595,Gostyń,Memoriał,2016/17,11
 Gracjan Machaj,kk dziewiątka-amica wronki,M,Juniorzy młodsi,371,223,0,594,Wronki,Turniej Świąteczny,2015/16,12
 Marek Gierszewski,mlks tucholanka tuchola,M,Juniorzy młodsi,380,214,1,594,Gostyń,Memoriał,2014/15,11
@@ -27,10 +16,8 @@ Tymoteusz Ratajczak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,411,180,2,591
 Kacper Michalak,ks start gostyń,M,Juniorzy młodsi,372,219,3,591,Wronki,Turniej Świąteczny,2014/15,12
 Mateusz Goździk,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,379,210,0,589,Gostyń,MP Juniorów Młodszych,2015/16,4
 Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,370,218,2,588,Wronki,Puchar Wronek,2016/17,3
-Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,370,218,2,588,Wronki,Puchar Wronek,2016/17,3
 Jakub Cwojdziński,ks alfa-vector tarnowo podgórne,M,Młodzicy,373,214,3,587,Wronki,Puchar Wronek,2013/14,2
 Kacper Michalak,ks start gostyń,M,Juniorzy młodsi,377,210,3,587,Leszno,Memoriał,2014/15,4
-Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,361,225,1,586,Wronki,Puchar Wronek,2016/17,3
 Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,361,225,1,586,Wronki,Puchar Wronek,2016/17,3
 Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,361,225,0,586,Gostyń,MP Juniorów Młodszych,2015/16,4
 Jakub Cwojdziński,osir vector tarnowo podgórne,M,Juniorzy młodsi,365,219,2,584,Sieraków,Puchar Starosty,2016/17,4
@@ -51,7 +38,6 @@ Igor Szydłowski,bosir brzesko,M,Juniorzy młodsi,369,208,0,577,Gostyń,Memoria�
 Kacper Michalak,ks start gostyń,M,Juniorzy młodsi,372,205,2,577,Wronki,Turniej Świąteczny,2014/15,12
 Dorota Kwapisz,ks polonia 1912 leszno,F,Juniorki młodsze,381,195,6,576,Leszno,Memoriał,2015/16,4
 Jakub Tomczyk,bosir brzesko,M,Juniorzy młodsi,361,214,3,575,Leszno,Memoriał,2016/17,4
-Szymon Kosz,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,381,194,7,575,Wronki,Puchar Wronek,2016/17,3
 Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,364,211,2,575,Wronki,Puchar Wronek,2012/13,4
 Karol Sellmann,ks start gostyń,M,Juniorzy młodsi,378,197,5,575,Wronki,Puchar Wronek,2013/14,2
 Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,364,211,2,575,Wronki,Puchar Wronek,2014/15,3
@@ -74,7 +60,6 @@ Tymoteusz Ratajczak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,397,172,2,569
 Jakub Polak,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,390,178,10,568,Leszno,Memoriał,2013/14,3
 Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,375,193,3,568,Leszno,Memoriał,2013/14,3
 Jakub Cwojdziński,osir vector tarnowo podgórne,M,Juniorzy młodsi,353,214,1,567,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Jakub Tomczyk,bosir brzesko,M,Juniorzy młodsi,367,200,4,567,Wronki,Puchar Wronek,2016/17,3
 Sandra Szczepska,kk dziewiątka-amica wronki,F,Młodziczki,384,183,2,567,Wronki,Puchar Wronek,2012/13,4
 Maciej Kozłowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,356,211,6,567,Wronki,Puchar Wronek,2013/14,2
 Sandra Szczepska,kk dziewiątka-amica wronki,F,Młodziczki,384,183,2,567,Wronki,Puchar Wronek,2014/15,3
@@ -109,7 +94,6 @@ Igor Szydłowski,bosir brzesko,M,Juniorzy młodsi,388,172,4,560,Tomaszów Mazowi
 Gracjan Machaj,kk dziewiątka-amica wronki,M,Juniorzy młodsi,362,198,3,560,Wronki,Puchar Wronek,2015/16,3
 Marek Gierszewski,mlks tucholanka tuchola,M,Juniorzy młodsi,381,179,2,560,Leszno,Memoriał,2014/15,4
 Sandra Mrowiec,osir vector tarnowo podgórne,F,Juniorki młodsze,362,197,6,559,Sieraków,Puchar Starosty,2016/17,4
-Krzysztof Przewoźny,kk dziewiątka-amica wronki,M,Młodzicy,358,201,4,559,Wronki,Puchar Wronek,2016/17,3
 Alan Rybiński,ks polonia 1912 leszno,M,Juniorzy młodsi,389,170,5,559,Wronki,Puchar Wronek,2012/13,4
 Alan Rybiński,ks polonia 1912 leszno,M,Juniorzy młodsi,389,170,5,559,Wronki,Puchar Wronek,2014/15,3
 Krzysztof Przewoźny,kk dziewiątka-amica wronki,M,Młodzicy,358,201,4,559,Wronki,Puchar Wronek,2016/17,3
@@ -123,13 +107,11 @@ Patryk Lukaszewski,ks start gostyń,M,Juniorzy młodsi,346,212,2,558,Gostyń,Mem
 Mateusz Klecha,ks polonia 1912 leszno,M,Juniorzy młodsi,388,170,3,558,Wronki,Turniej Świąteczny,2014/15,12
 Sandra Szczepska,kk dziewiątka-amica wronki,F,Młodziczki,371,187,7,558,Wronki,MP Młodzików,2014/15,12
 Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,362,195,5,557,Leszno,Memoriał,2016/17,4
-Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,378,179,2,557,Wronki,Puchar Wronek,2016/17,3
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Młodziczki,371,186,4,557,Wronki,Puchar Wronek,2012/13,4
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Młodziczki,371,186,4,557,Wronki,Puchar Wronek,2014/15,3
 Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,378,179,2,557,Wronki,Puchar Wronek,2016/17,3
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,352,205,2,557,Wronki,Turniej Świąteczny,2015/16,12
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,357,200,1,557,Leszno,Memoriał,2015/16,4
-Krzysztof Przewoźny,kk dziewiątka-amica wronki,M,Młodzicy,371,185,5,556,Wronki,Puchar Wronek,2016/17,3
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,343,213,3,556,Wronki,Puchar Wronek,2015/16,3
 Krzysztof Przewoźny,kk dziewiątka-amica wronki,M,Młodzicy,371,185,5,556,Wronki,Puchar Wronek,2016/17,3
 Sandra Szczepska,kk dziewiątka-amica wronki,F,Juniorki młodsze,372,184,2,556,Wronki,Turniej Świąteczny,2015/16,12
@@ -152,9 +134,6 @@ Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,360,194,2,554,Tuchola,Puch
 Anna Matecka,ks polonia 1912 leszno,F,Juniorki młodsze,386,168,4,554,Leszno,Memoriał,2013/14,3
 Alan Rybiński,ks polonia 1912 leszno,M,Juniorzy młodsi,378,175,7,553,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Mateusz Goździk,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,365,188,1,553,Leszno,Memoriał,2016/17,4
-Jakub Tomczyk,bosir brzesko,M,Juniorzy młodsi,361,192,3,553,Wronki,Puchar Wronek,2016/17,3
-Mateusz Goździk,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,371,182,3,553,Wronki,Puchar Wronek,2016/17,3
-Tomasz Byliński,osir vector tarnowo podgórne,M,Juniorzy młodsi,369,184,4,553,Wronki,Puchar Wronek,2016/17,3
 Maciej Kozłowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,380,173,4,553,Wronki,Puchar Wronek,2012/13,4
 Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,358,195,2,553,Wronki,Puchar Wronek,2013/14,2
 Maciej Kozłowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,380,173,4,553,Wronki,Puchar Wronek,2014/15,3
@@ -177,10 +156,10 @@ Jakub Cwojdziński,osir vector tarnowo podgórne,M,Juniorzy młodsi,373,178,3,55
 Tymoteusz Ratajczak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,355,196,3,551,Wronki,Puchar Wronek,2013/14,2
 Mateusz Klecha,ks polonia 1912 leszno,M,Juniorzy młodsi,368,183,1,551,Wronki,Turniej Świąteczny,2015/16,12
 Bartosz Ruszczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,382,169,8,551,Wronki,Turniej Świąteczny,2015/16,12
+Igor Szydłowski,bosir brzesko,M,Juniorzy młodsi,363,188,8,551,Gostyń,Memoriał,2015/16,11
 Kamil Palacz,kk dziewiątka-amica wronki,M,Juniorzy młodsi,367,184,4,551,Gostyń,Memoriał,2014/15,11
 Marek Gierszewski,mlks tucholanka tuchola,M,Juniorzy młodsi,351,200,2,551,Leszno,Memoriał,2013/14,3
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,371,179,4,550,Leszno,Memoriał,2016/17,4
-Aleksandra Metlicka,mlks tucholanka tuchola,F,Juniorki młodsze,368,182,3,550,Wronki,Puchar Wronek,2016/17,3
 Tymoteusz Ratajczak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,358,192,0,550,Wronki,Puchar Wronek,2012/13,4
 Dawid Nowak,ks czarna kula poznań,M,Juniorzy młodsi,381,169,5,550,Wronki,Puchar Wronek,2012/13,4
 Tymoteusz Ratajczak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,358,192,0,550,Wronki,Puchar Wronek,2014/15,3
@@ -199,9 +178,9 @@ Lukáš Bajer,skk primator nachod,M,Juniorzy młodsi,365,184,4,549,Gostyń,Memor
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Młodziczki,346,203,4,549,Wronki,MP Młodzików,2014/15,12
 Jagoda Dziamska,osir vector tarnowo podgórne,F,Juniorki młodsze,372,176,10,548,Sieraków,Puchar Starosty,2016/17,4
 Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,349,199,4,548,Sieraków,Puchar Starosty,2016/17,4
-Maciej Olczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,360,188,4,548,Wronki,Puchar Wronek,2016/17,3
 Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,364,184,3,548,Wronki,Puchar Wronek,2015/16,3
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,360,188,4,548,Wronki,Puchar Wronek,2016/17,3
+Aleksander Nowacki,mlks tucholanka tuchola,M,Juniorzy młodsi,367,181,7,548,Gostyń,Memoriał,2015/16,11
 Łukasz Łazowski,bosir brzesko,M,Juniorzy młodsi,356,191,3,547,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Bartosz Ruszczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,351,196,2,547,Sieraków,Puchar Starosty,2016/17,4
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,371,176,4,547,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
@@ -217,8 +196,6 @@ Jakub Cwojdziński,ks alfa-vector tarnowo podgórne,M,Młodzicy,368,179,1,547,Le
 Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,366,181,5,547,Wronki,Turniej Świąteczny,2014/15,12
 Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,352,194,6,546,Leszno,Memoriał,2016/17,4
 Tobiasz Wilk,kk dziewiątka-amica wronki,M,Młodzicy,379,167,4,546,Sieraków,Puchar Starosty,2016/17,4
-Mateusz Goździk,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,355,191,4,546,Wronki,Puchar Wronek,2016/17,3
-Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,365,181,1,546,Wronki,Puchar Wronek,2016/17,3
 Jakub Cwojdziński,ks alfa-vector tarnowo podgórne,M,Młodzicy,374,172,9,546,Wronki,Puchar Wronek,2013/14,2
 Mateusz Klecha,ks polonia 1912 leszno,M,Juniorzy młodsi,363,183,2,546,Wronki,Puchar Wronek,2015/16,3
 Mateusz Kląskała,kk dziewiątka-amica wronki,M,Juniorzy młodsi,345,201,4,546,Wronki,Puchar Wronek,2015/16,3
@@ -230,8 +207,6 @@ Alan Rybiński,ks polonia 1912 leszno,M,Juniorzy młodsi,368,178,6,546,Leszno,Me
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,364,182,7,546,Leszno,Memoriał,2014/15,4
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,370,176,4,546,Wronki,Turniej Świąteczny,2014/15,12
 Jakub Cwojdziński,ks alfa-vector tarnowo podgórne,M,Młodzicy,361,185,5,546,Wronki,MP Młodzików,2014/15,12
-Filip Skalski,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,366,179,7,545,Wronki,Puchar Wronek,2016/17,3
-Tobiasz Wilk,kk dziewiątka-amica wronki,M,Młodzicy,362,183,8,545,Wronki,Puchar Wronek,2016/17,3
 Mateusz Klecha,ks polonia 1912 leszno,M,Juniorzy młodsi,364,181,0,545,Wronki,Puchar Wronek,2012/13,4
 Justyna Wegner,mlks tucholanka tuchola,F,Juniorki młodsze,327,218,10,545,Wronki,Puchar Wronek,2013/14,2
 Mateusz Klecha,ks polonia 1912 leszno,M,Juniorzy młodsi,364,181,0,545,Wronki,Puchar Wronek,2014/15,3
@@ -247,9 +222,6 @@ Krzysztof Bartkowiak,osir vector tarnowo podgórne,M,Młodzicy,365,180,4,545,Les
 Łukasz Łazowski,bosir brzesko,M,Juniorzy młodsi,361,183,5,544,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Mateusz Goździk,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,365,179,5,544,Leszno,Memoriał,2016/17,4
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,369,175,8,544,Leszno,Memoriał,2016/17,4
-Maciej Olczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,369,175,3,544,Wronki,Puchar Wronek,2016/17,3
-Damian Czernecki,bosir brzesko,M,Juniorzy młodsi,374,170,12,544,Wronki,Puchar Wronek,2016/17,3
-Wojciech Anklam,kk dziewiątka-amica wronki,M,Młodzicy,363,181,3,544,Wronki,Puchar Wronek,2016/17,3
 Mateusz Kląskała,kk dziewiątka-amica wronki,M,Juniorzy młodsi,373,171,5,544,Wronki,Puchar Wronek,2012/13,4
 Mateusz Kląskała,kk dziewiątka-amica wronki,M,Juniorzy młodsi,373,171,5,544,Wronki,Puchar Wronek,2014/15,3
 Joanna Pawłowska,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,367,177,6,544,Wronki,Puchar Wronek,2015/16,3
@@ -281,13 +253,13 @@ Kacper Kuchnowski,ks zatoka puck,M,Juniorzy młodsi,365,178,4,543,Leszno,Memoria
 Krzysztof Bartkowiak,osir vector tarnowo podgórne,M,Młodzicy,339,203,4,542,Sieraków,Puchar Starosty,2016/17,4
 Anna Łochowicz,ks polonia 1912 leszno,F,Juniorki młodsze,364,178,2,542,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Tobiasz Wilk,kk dziewiątka-amica wronki,M,Młodzicy,362,180,11,542,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Jakub Kuryło,bosir brzesko,M,Młodzicy,376,166,3,542,Wronki,Puchar Wronek,2016/17,3
 Marek Gierszewski,mlks tucholanka tuchola,M,Juniorzy młodsi,357,185,2,542,Wronki,Puchar Wronek,2012/13,4
 Marek Gierszewski,mlks tucholanka tuchola,M,Juniorzy młodsi,357,185,2,542,Wronki,Puchar Wronek,2014/15,3
 Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,366,176,2,542,Wronki,Puchar Wronek,2015/16,3
 Jakub Kuryło,bosir brzesko,M,Młodzicy,376,166,3,542,Wronki,Puchar Wronek,2016/17,3
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,371,171,6,542,Gostyń,MP Juniorów Młodszych,2015/16,4
 Jakub Kuryło,bosir brzesko,M,Młodzicy,360,182,6,542,Leszno,Memoriał,2015/16,4
+Dawid Łuczak,mlks tucholanka tuchola,M,Juniorzy młodsi,372,170,6,542,Gostyń,Memoriał,2015/16,11
 Angelika Wojtaszek,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,382,160,7,542,Gostyń,Memoriał,2016/17,11
 Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,350,191,3,541,Leszno,Memoriał,2016/17,4
 Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,329,212,0,541,Wronki,Puchar Wronek,2012/13,4
@@ -298,6 +270,7 @@ Sandra Szczepska,kk dziewiątka-amica wronki,F,Juniorki młodsze,364,177,2,541,W
 Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,357,184,2,541,Gostyń,Memoriał,2015/16,11
 Aleksander Nowacki,mlks tucholanka tuchola,M,Juniorzy młodsi,366,175,4,541,Gostyń,Memoriał,2015/16,11
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,358,183,4,541,Gostyń,Memoriał,2015/16,11
+Jakub Tomczyk,bosir brzesko,M,Juniorzy młodsi,356,185,4,541,Gostyń,Memoriał,2015/16,11
 Tymoteusz Ratajczak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,365,176,1,541,Gostyń,Memoriał,2014/15,11
 Mateusz Goździk,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,364,177,3,541,Gostyń,Memoriał,2016/17,11
 Jakub Kuryło,bosir brzesko,M,Młodzicy,351,190,4,541,Gostyń,Memoriał,2016/17,11
@@ -306,7 +279,6 @@ Mateusz Klecha,ks polonia 1912 leszno,M,Juniorzy młodsi,359,182,2,541,Leszno,Me
 Mateusz Goździk,ks pilica tomaszów mazowiecki,M,Młodzicy,360,181,3,541,Leszno,Memoriał,2013/14,3
 Angelika Ciszewska,ks polonia 1912 leszno,F,Juniorki młodsze,360,180,10,540,Leszno,Memoriał,2016/17,4
 Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,376,164,2,540,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,362,178,4,540,Wronki,Puchar Wronek,2016/17,3
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,362,178,4,540,Wronki,Puchar Wronek,2016/17,3
 Jakub Kląskała,kk dziewiątka-amica wronki,M,Młodzicy,351,189,8,540,Wronki,Turniej Świąteczny,2015/16,12
 Julia Paszyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,364,176,7,540,Leszno,Memoriał,2015/16,4
@@ -327,11 +299,11 @@ Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,377,162,4,539,Wronk
 Kacper Michalak,ks start gostyń,M,Juniorzy młodsi,363,176,3,539,Gostyń,MP Juniorów Młodszych,2015/16,4
 Jakub Kląskała,kk dziewiątka-amica wronki,M,Młodzicy,355,184,3,539,Leszno,Memoriał,2015/16,4
 Julia Paszyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,358,181,9,539,Gostyń,Memoriał,2015/16,11
+Szymon Kaliski,ks polonia 1912 leszno,M,Juniorzy młodsi,345,194,2,539,Gostyń,Memoriał,2015/16,11
 Patrycja Grzelak,kk dziewiątka-amica wronki,F,Juniorki młodsze,367,172,4,539,Leszno,Memoriał,2014/15,4
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,368,170,5,538,Leszno,Memoriał,2016/17,4
 Angelika Wojtaszek,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,363,175,3,538,Leszno,Memoriał,2016/17,4
 Jędrzej Dmowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,361,177,6,538,Sieraków,Puchar Starosty,2016/17,4
-Tobiasz Wilk,kk dziewiątka-amica wronki,M,Młodzicy,362,176,4,538,Wronki,Puchar Wronek,2016/17,3
 Jakub Kuryło,bosir brzesko,M,Młodzicy,345,193,4,538,Tuchola,MP Młodzików,2016/17,11
 Justyna Wegner,mlks tucholanka tuchola,F,Juniorki młodsze,384,154,9,538,Wronki,Puchar Wronek,2013/14,2
 Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,354,184,4,538,Wronki,Puchar Wronek,2015/16,3
@@ -345,8 +317,6 @@ Julia Grocholska,kk dziewiątka-amica wronki,F,Juniorki młodsze,354,184,8,538,T
 Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,346,192,3,538,Gostyń,Memoriał,2014/15,11
 Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,365,173,3,538,Gostyń,Memoriał,2016/17,11
 Patryk Paryło,tkkf sokół brzesko,M,Juniorzy młodsi,377,161,7,538,Leszno,Memoriał,2013/14,3
-Julia Paszyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,377,160,5,537,Wronki,Puchar Wronek,2016/17,3
-Sandra Szczepska,kk dziewiątka-amica wronki,F,Juniorki młodsze,354,183,4,537,Wronki,Puchar Wronek,2016/17,3
 Aleksander Kulesza,mlks tucholanka tuchola,M,Młodzicy,362,175,9,537,Wronki,Puchar Wronek,2015/16,3
 Łukasz Wysiński,mlks tucholanka tuchola,M,Juniorzy młodsi,363,174,8,537,Wronki,Puchar Wronek,2015/16,3
 Julia Paszyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,377,160,5,537,Wronki,Puchar Wronek,2016/17,3
@@ -359,7 +329,6 @@ Maciej Olczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,350,186,3,536,Tomas
 Sandra Szczepska,kk dziewiątka-amica wronki,F,Juniorki młodsze,346,190,0,536,Leszno,Memoriał,2016/17,4
 Gracjan Machaj,kk dziewiątka-amica wronki,M,Juniorzy młodsi,340,196,2,536,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Angelika Ciszewska,ks polonia 1912 leszno,F,Juniorki młodsze,369,167,5,536,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Karolina Gurgul,bosir brzesko,F,Juniorki młodsze,369,167,5,536,Wronki,Puchar Wronek,2016/17,3
 Mateusz Kląskała,kk dziewiątka-amica wronki,M,Juniorzy młodsi,361,175,5,536,Wronki,Puchar Wronek,2012/13,4
 Karolina Pietrowska,mlks tucholanka tuchola,F,Juniorki młodsze,383,153,7,536,Wronki,Puchar Wronek,2012/13,4
 Gracjan Machaj,kk dziewiątka-amica wronki,M,Juniorzy młodsi,357,179,4,536,Wronki,Puchar Wronek,2013/14,2
@@ -373,12 +342,11 @@ Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,351,185,7,536,Wronk
 Bartosz Ruszczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,347,189,5,536,Leszno,Memoriał,2015/16,4
 Natalia Włodarczyk,ks polonia 1912 leszno,F,Juniorki młodsze,365,171,5,536,Leszno,Memoriał,2015/16,4
 Anna Łochowicz,ks polonia 1912 leszno,F,Młodziczki,369,167,8,536,Leszno,Memoriał,2015/16,4
+Kacper Michalak,ks start gostyń,M,Juniorzy młodsi,356,180,1,536,Gostyń,Memoriał,2015/16,11
 Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,377,159,6,536,Gostyń,Memoriał,2015/16,11
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Młodzicy,350,186,6,536,Gostyń,Memoriał,2014/15,11
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,352,184,2,536,Gostyń,Memoriał,2016/17,11
 Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,365,170,6,535,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Aleksandra Metlicka,mlks tucholanka tuchola,F,Juniorki młodsze,370,165,7,535,Wronki,Puchar Wronek,2016/17,3
-Karolina Gurgul,bosir brzesko,F,Juniorki młodsze,356,179,2,535,Wronki,Puchar Wronek,2016/17,3
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Młodziczki,352,183,6,535,Wronki,Puchar Wronek,2012/13,4
 Patryk Mrowiec,osir vector tarnowo podgórne,M,Juniorzy młodsi,350,185,9,535,Wronki,Puchar Wronek,2013/14,2
 Nina Brožková,skk primator nachod,F,Juniorki młodsze,350,185,3,535,Wronki,Puchar Wronek,2013/14,2
@@ -391,6 +359,7 @@ Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,339,196,5,5
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,376,159,4,535,Leszno,Memoriał,2015/16,4
 Jędrzej Dmowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,365,170,8,535,Leszno,Memoriał,2015/16,4
 Dorota Kwapisz,ks polonia 1912 leszno,F,Juniorki młodsze,358,177,8,535,Leszno,Memoriał,2015/16,4
+Patryk Lukaszewski,ks start gostyń,M,Juniorzy młodsi,363,172,9,535,Gostyń,Memoriał,2015/16,11
 Paweł Osiński,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,352,183,3,535,Gostyń,Memoriał,2014/15,11
 Kateřina Majerová,skk primator nachod,F,Juniorki młodsze,356,179,3,535,Gostyń,Memoriał,2014/15,11
 Jakub Cwojdziński,ks alfa-vector tarnowo podgórne,M,Młodzicy,365,170,7,535,Gostyń,Memoriał,2014/15,11
@@ -400,10 +369,6 @@ Szymon Kosz,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,359,175,3,534,Toma
 Angelika Wojtaszek,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,353,181,6,534,Leszno,Memoriał,2016/17,4
 Maciej Fot,kk dziewiątka-amica wronki,M,Juniorzy młodsi,351,183,4,534,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,352,182,2,534,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Łukasz Łazowski,bosir brzesko,M,Juniorzy młodsi,355,179,3,534,Wronki,Puchar Wronek,2016/17,3
-Patryk Mrowiec,osir vector tarnowo podgórne,M,Juniorzy młodsi,368,166,10,534,Wronki,Puchar Wronek,2016/17,3
-Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,368,166,6,534,Wronki,Puchar Wronek,2016/17,3
-Wojciech Anklam,kk dziewiątka-amica wronki,M,Młodzicy,357,177,5,534,Wronki,Puchar Wronek,2016/17,3
 Patryk Nowak,ks czarna kula poznań,M,Juniorzy młodsi,362,172,7,534,Wronki,Puchar Wronek,2012/13,4
 Natalia Włodarczyk,ks polonia 1912 leszno,F,Juniorki młodsze,339,195,2,534,Wronki,Puchar Wronek,2013/14,2
 Patryk Nowak,ks czarna kula poznań,M,Juniorzy młodsi,362,172,7,534,Wronki,Puchar Wronek,2014/15,3
@@ -418,7 +383,6 @@ Mateusz Klecha,ks polonia 1912 leszno,M,Juniorzy młodsi,378,156,7,534,Gostyń,M
 Karol Kube,ks polonia 1912 leszno,M,Młodzicy,327,207,8,534,Leszno,MP Młodzików,2015/16,12
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,358,175,3,533,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Jakub Cwojdziński,osir vector tarnowo podgórne,M,Juniorzy młodsi,367,166,4,533,Sieraków,Puchar Starosty,2016/17,4
-Bartosz Ruszczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,355,178,8,533,Wronki,Puchar Wronek,2016/17,3
 Sandra Szczepska,kk dziewiątka-amica wronki,F,Młodziczki,343,190,4,533,Wronki,Puchar Wronek,2012/13,4
 Kamil Palacz,kk dziewiątka-amica wronki,M,Juniorzy młodsi,366,167,3,533,Wronki,Puchar Wronek,2013/14,2
 Sandra Szczepska,kk dziewiątka-amica wronki,F,Młodziczki,343,190,4,533,Wronki,Puchar Wronek,2014/15,3
@@ -438,7 +402,6 @@ Maciej Olczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,354,178,7,532,Tomas
 Jakub Cwojdziński,osir vector tarnowo podgórne,M,Juniorzy młodsi,368,164,7,532,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Jagoda Dziamska,osir vector tarnowo podgórne,F,Juniorki młodsze,372,160,6,532,Sieraków,Puchar Starosty,2016/17,4
 Gracjan Machaj,kk dziewiątka-amica wronki,M,Juniorzy młodsi,364,168,4,532,Sieraków,Puchar Starosty,2016/17,4
-Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,363,169,4,532,Wronki,Puchar Wronek,2016/17,3
 Łukasz Wysiński,mlks tucholanka tuchola,M,Juniorzy młodsi,362,170,10,532,Wronki,Puchar Wronek,2015/16,3
 Angelika Wojtaszek,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,356,176,11,532,Wronki,Puchar Wronek,2015/16,3
 Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,363,169,4,532,Wronki,Puchar Wronek,2016/17,3
@@ -448,6 +411,7 @@ Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,371,161,4,532,Wronki,Turni
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,353,179,3,532,Wronki,Turniej Świąteczny,2015/16,12
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,365,167,6,532,Wronki,Turniej Świąteczny,2015/16,12
 Kamil Palacz,kk dziewiątka-amica wronki,M,Juniorzy młodsi,350,182,4,532,Tuchola,Puchar Borów Tucholskich,2015/16,10
+Mateusz Gożdzik,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,356,176,0,532,Gostyń,Memoriał,2015/16,11
 Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,386,146,6,532,Gostyń,Memoriał,2016/17,11
 Jakub Kuryło,bosir brzesko,M,Młodzicy,352,180,1,532,Gostyń,Memoriał,2016/17,11
 Alan Rybiński,ks polonia 1912 leszno,M,Juniorzy młodsi,363,169,7,532,Leszno,Memoriał,2013/14,3
@@ -475,10 +439,6 @@ Maciej Kozłowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,370,161,4,531
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,382,149,7,531,Wronki,Turniej Świąteczny,2014/15,12
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Młodziczki,361,170,7,531,Wronki,MP Młodzików,2014/15,12
 Joanna Pawłowska,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,373,157,10,530,Leszno,Memoriał,2016/17,4
-Gracjan Machaj,kk dziewiątka-amica wronki,M,Juniorzy młodsi,360,170,2,530,Wronki,Puchar Wronek,2016/17,3
-Mateusz Gromadecki,osir vector tarnowo podgórne,M,Juniorzy młodsi,367,163,9,530,Wronki,Puchar Wronek,2016/17,3
-Jan Klemenski,kk dziewiątka-amica wronki,M,Juniorzy młodsi,385,145,13,530,Wronki,Puchar Wronek,2016/17,3
-Julia Paszyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,369,161,6,530,Wronki,Puchar Wronek,2016/17,3
 Jakub Kuryło,bosir brzesko,M,Młodzicy,370,160,0,530,Tuchola,MP Młodzików,2016/17,11
 Patryk Lukaszewski,ks start gostyń,M,Juniorzy młodsi,345,185,5,530,Wronki,Puchar Wronek,2012/13,4
 Alan Rybiński,ks polonia 1912 leszno,M,Juniorzy młodsi,388,142,9,530,Wronki,Puchar Wronek,2012/13,4
@@ -506,7 +466,6 @@ Paweł Osiński,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,371,159,3,530,
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,373,156,5,529,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Gracjan Machaj,kk dziewiątka-amica wronki,M,Juniorzy młodsi,352,177,1,529,Leszno,Memoriał,2016/17,4
 Angelika Ciszewska,ks polonia 1912 leszno,F,Juniorki młodsze,335,194,7,529,Leszno,Memoriał,2016/17,4
-Sandra Szczepska,kk dziewiątka-amica wronki,F,Juniorki młodsze,350,179,5,529,Wronki,Puchar Wronek,2016/17,3
 Denis Hofman,skk primator nachod,M,Młodzicy,363,166,6,529,Wronki,Puchar Wronek,2013/14,2
 Sandra Szczepska,kk dziewiątka-amica wronki,F,Juniorki młodsze,350,179,5,529,Wronki,Puchar Wronek,2016/17,3
 Igor Szydłowski,bosir brzesko,M,Juniorzy młodsi,330,199,2,529,Gostyń,MP Juniorów Młodszych,2015/16,4
@@ -523,9 +482,6 @@ Viktor Gruszczyński,ks polonia 1912 leszno,M,Juniorzy młodsi,352,176,7,528,Les
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,371,157,5,528,Leszno,Memoriał,2016/17,4
 Weronika Paszyk,kk wrzos sieraków,F,Juniorki młodsze,370,158,10,528,Sieraków,Puchar Starosty,2016/17,4
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,357,171,5,528,Sieraków,Puchar Starosty,2016/17,4
-Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,343,185,5,528,Wronki,Puchar Wronek,2016/17,3
-Julia Sidło,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,357,171,7,528,Wronki,Puchar Wronek,2016/17,3
-Angelika Wojtaszek,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,379,149,12,528,Wronki,Puchar Wronek,2016/17,3
 Krystian Górniak,kk dziewiątka-amica wronki,M,Młodzicy,375,153,10,528,Wronki,Puchar Wronek,2012/13,4
 Julia Paszyk,kk dziewiątka-amica wronki,F,Młodziczki,363,165,7,528,Wronki,Puchar Wronek,2013/14,2
 Dawid Kupiec,uks kormoran sieraków,M,Juniorzy młodsi,367,161,1,528,Wronki,Puchar Wronek,2013/14,2
@@ -549,8 +505,6 @@ Sandra Szczepska,kk dziewiątka-amica wronki,F,Młodziczki,366,162,8,528,Wronki,
 Alan Rybiński,ks polonia 1912 leszno,M,Juniorzy młodsi,369,158,8,527,Leszno,Memoriał,2016/17,4
 Karolina Gurgul,bosir brzesko,F,Juniorki młodsze,354,173,9,527,Leszno,Memoriał,2016/17,4
 Jędrzej Nowak,ks start gostyń,M,Juniorzy młodsi,369,158,4,527,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Szymon Kosz,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,365,162,6,527,Wronki,Puchar Wronek,2016/17,3
-Natalia Cebula,bosir brzesko,F,Juniorki młodsze,362,165,8,527,Wronki,Puchar Wronek,2016/17,3
 Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,373,154,11,527,Wronki,Puchar Wronek,2012/13,4
 Izabela Szczukowska,mlks tucholanka tuchola,F,Juniorki młodsze,354,173,5,527,Wronki,Puchar Wronek,2013/14,2
 Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,373,154,11,527,Wronki,Puchar Wronek,2014/15,3
@@ -586,7 +540,6 @@ Dawid Kupiec,uks kormoran sieraków,M,Juniorzy młodsi,356,170,6,526,Leszno,Memo
 Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,363,163,4,526,Leszno,Memoriał,2014/15,4
 Angelika Ciszewska,ks polonia 1912 leszno,F,Młodziczki,353,173,7,526,Leszno,MP Młodzików,2015/16,12
 Karolina Gurgul,bosir brzesko,F,Juniorki młodsze,368,157,8,525,Leszno,Memoriał,2016/17,4
-Tomasz Byliński,osir vector tarnowo podgórne,M,Juniorzy młodsi,341,184,4,525,Wronki,Puchar Wronek,2016/17,3
 Jerzy Gołębiewski,ks zatoka puck,M,Młodzicy,358,167,10,525,Wronki,Puchar Wronek,2012/13,4
 Hubert Cypel,kk dziewiątka-amica wronki,M,Młodzicy,351,174,6,525,Wronki,Puchar Wronek,2012/13,4
 Martyna Remisz,kk dziewiątka-amica wronki,F,Juniorki młodsze,358,167,5,525,Wronki,Puchar Wronek,2012/13,4
@@ -606,8 +559,6 @@ Jakub Kuryło,bosir brzesko,M,Młodzicy,358,167,5,525,Leszno,MP Młodzików,2015
 Tymoteusz Ratajczak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,355,170,1,525,Wronki,Turniej Świąteczny,2014/15,12
 Julia Sidło,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,360,164,3,524,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,366,158,6,524,Sieraków,Puchar Starosty,2016/17,4
-Kacper Kuchnowski,ks zatoka puck,M,Juniorzy młodsi,354,170,8,524,Wronki,Puchar Wronek,2016/17,3
-Jakub Kuryło,bosir brzesko,M,Młodzicy,348,176,3,524,Wronki,Puchar Wronek,2016/17,3
 Patryk Mrowiec,osir vector tarnowo podgórne,M,Juniorzy młodsi,365,159,10,524,Wronki,Puchar Wronek,2012/13,4
 Anna Piotrowska,kk dziewiątka-amica wronki,F,Juniorki młodsze,344,180,5,524,Wronki,Puchar Wronek,2013/14,2
 Patryk Mrowiec,osir vector tarnowo podgórne,M,Juniorzy młodsi,365,159,10,524,Wronki,Puchar Wronek,2014/15,3
@@ -630,7 +581,6 @@ Nicoletta Dudziak,ks polonia 1912 leszno,F,Juniorki młodsze,343,181,3,524,Gosty
 Adrian Zagata,ks start gostyń,M,Juniorzy młodsi,370,154,3,524,Leszno,Memoriał,2013/14,3
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Młodzicy,337,187,7,524,Wronki,Turniej Świąteczny,2014/15,12
 Patryk Lukaszewski,ks start gostyń,M,Juniorzy młodsi,356,167,2,523,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Łukasz Wysiński,mlks tucholanka tuchola,M,Juniorzy młodsi,349,174,7,523,Wronki,Puchar Wronek,2016/17,3
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Młodzicy,347,176,2,523,Wronki,Puchar Wronek,2013/14,2
 Bartosz Ruszczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,339,184,8,523,Wronki,Puchar Wronek,2013/14,2
 Katarzyna Mroczkiewicz,kk dziewiątka-amica wronki,F,Juniorki młodsze,357,166,3,523,Wronki,Puchar Wronek,2015/16,3
@@ -690,7 +640,6 @@ Maciej Fot,kk dziewiątka-amica wronki,M,Młodzicy,361,160,8,521,Leszno,Memoria�
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Młodziczki,343,178,10,521,Wronki,Turniej Świąteczny,2014/15,12
 Angelika Ciszewska,ks polonia 1912 leszno,F,Juniorki młodsze,345,175,7,520,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Kevin Prętki,kk dziewiątka-amica wronki,M,Młodzicy,349,171,10,520,Sieraków,Puchar Starosty,2016/17,4
-Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,376,144,7,520,Wronki,Puchar Wronek,2016/17,3
 Maja Wąsala,osir vector tarnowo podgórne,F,Młodziczki,362,158,15,520,Tuchola,MP Młodzików,2016/17,11
 Patrycja Grzelak,kk dziewiątka-amica wronki,F,Juniorki młodsze,348,172,5,520,Wronki,Puchar Wronek,2013/14,2
 Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,376,144,7,520,Wronki,Puchar Wronek,2016/17,3
@@ -714,9 +663,6 @@ Anna Łochowicz,ks polonia 1912 leszno,F,Juniorki młodsze,351,168,6,519,Tomasz�
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,343,176,4,519,Leszno,Memoriał,2016/17,4
 Bartosz Ruszczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,346,173,5,519,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Anna Łochowicz,ks polonia 1912 leszno,F,Juniorki młodsze,352,167,7,519,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Maciej Fot,kk dziewiątka-amica wronki,M,Juniorzy młodsi,359,160,2,519,Wronki,Puchar Wronek,2016/17,3
-Jędrzej Dmowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,361,158,8,519,Wronki,Puchar Wronek,2016/17,3
-Joanna Pawłowska,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,337,182,8,519,Wronki,Puchar Wronek,2016/17,3
 Krzysztof Bartkowiak,osir vector tarnowo podgórne,M,Młodzicy,353,166,9,519,Tuchola,MP Młodzików,2016/17,11
 Natalia Włodarczyk,ks polonia 1912 leszno,F,Juniorki młodsze,343,176,4,519,Wronki,Puchar Wronek,2013/14,2
 Anna Łochowicz,ks polonia 1912 leszno,F,Młodziczki,328,191,4,519,Wronki,Puchar Wronek,2015/16,3
@@ -793,8 +739,6 @@ Julia Filipiec,kk dziewiątka-amica wronki,F,Młodziczki,354,162,8,516,Wronki,Tu
 Łukasz Wysiński,mlks tucholanka tuchola,M,Juniorzy młodsi,354,161,9,515,Leszno,Memoriał,2016/17,4
 Julia Sidlo,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,352,163,3,515,Leszno,Memoriał,2016/17,4
 Mateusz Kraczewski,ks polonia 1912 leszno,M,Młodzicy,358,157,7,515,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,369,146,8,515,Wronki,Puchar Wronek,2016/17,3
-Małgorzata Kompa,ks pilica tomaszów mazowiecki,F,Młodziczki,341,174,12,515,Wronki,Puchar Wronek,2016/17,3
 Tobiasz Wilk,kk dziewiątka-amica wronki,M,Młodzicy,363,152,9,515,Tuchola,MP Młodzików,2016/17,11
 Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,356,159,11,515,Tuchola,MP Młodzików,2016/17,11
 Tomasz Byliński,osir vector tarnowo podgórne,M,Młodzicy,332,183,8,515,Wronki,Puchar Wronek,2013/14,2
@@ -813,7 +757,6 @@ Sandra Szczepska,kk dziewiątka-amica wronki,F,Młodziczki,340,175,4,515,Wronki,
 Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,350,164,5,514,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Bartosz Pośladek,bosir brzesko,M,Juniorzy młodsi,341,173,11,514,Leszno,Memoriał,2016/17,4
 Aleksandra Metlicka,mlks tucholanka tuchola,F,Juniorki młodsze,354,160,8,514,Leszno,Memoriał,2016/17,4
-Dawid Adamski,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,344,170,10,514,Wronki,Puchar Wronek,2016/17,3
 Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,365,149,9,514,Wronki,Puchar Wronek,2012/13,4
 Kacper Michalak,ks start gostyń,M,Juniorzy młodsi,365,149,3,514,Wronki,Puchar Wronek,2013/14,2
 Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,365,149,9,514,Wronki,Puchar Wronek,2014/15,3
@@ -858,7 +801,6 @@ Martyna Remisz,kk dziewiątka-amica wronki,F,Juniorki młodsze,352,161,9,513,Wro
 Krystian Górniak,kk dziewiątka-amica wronki,M,Młodzicy,354,159,10,513,Wronki,MP Młodzików,2014/15,12
 Mateusz Goździk,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,347,165,6,512,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Joanna Pawłowska,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,336,176,5,512,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Mateusz Kraczewski,ks polonia 1912 leszno,M,Młodzicy,356,156,10,512,Wronki,Puchar Wronek,2016/17,3
 Daria Klunder,mlks tucholanka tuchola,F,Juniorki młodsze,347,165,6,512,Wronki,Puchar Wronek,2015/16,3
 Mateusz Kraczewski,ks polonia 1912 leszno,M,Młodzicy,356,156,10,512,Wronki,Puchar Wronek,2016/17,3
 Jędrzej Nowak,ks start gostyń,M,Juniorzy młodsi,356,156,7,512,Gostyń,MP Juniorów Młodszych,2015/16,4
@@ -891,6 +833,7 @@ Patryk Lukaszewski,ks start gostyń,M,Młodzicy,363,148,11,511,Leszno,MP Młodzi
 Jakub Kuryło,bosir brzesko,M,Młodzicy,363,148,7,511,Leszno,Memoriał,2015/16,4
 Maciej Kozłowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,348,163,4,511,Tuchola,Puchar Borów Tucholskich,2015/16,10
 Angelika Przybysz,kk dziewiątka-amica wronki,F,Młodziczki,364,147,6,511,Tuchola,Puchar Borów Tucholskich,2015/16,10
+Szymon Kosz,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,359,152,6,511,Gostyń,Memoriał,2015/16,11
 Jakub Cwojdziński,ks alfa-vector tarnowo podgórne,M,Młodzicy,344,167,4,511,Gostyń,Memoriał,2014/15,11
 Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,352,159,6,511,Gostyń,Memoriał,2014/15,11
 Aleksander Nowacki,mlks tucholanka tuchola,M,Juniorzy młodsi,358,153,6,511,Leszno,Memoriał,2013/14,3
@@ -916,9 +859,6 @@ Jakub Cwojdziński,ks alfa-vector tarnowo podgórne,M,Młodzicy,336,174,5,510,Wr
 Wiktor Nowak,kk wrzos sieraków,M,Juniorzy młodsi,331,178,6,509,Sieraków,Puchar Starosty,2016/17,4
 Weronika Roszak,kk dziewiątka-amica wronki,F,Młodziczki,335,174,10,509,Sieraków,Puchar Starosty,2016/17,4
 Maciej Fot,kk dziewiątka-amica wronki,M,Juniorzy młodsi,363,146,8,509,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Damian Czernecki,bosir brzesko,M,Juniorzy młodsi,351,158,9,509,Wronki,Puchar Wronek,2016/17,3
-Igor Kolonko,ks polonia łaziska górne,M,Młodzicy,354,155,16,509,Wronki,Puchar Wronek,2016/17,3
-Nicola Kobiór,ks polonia łaziska górne,F,Młodziczki,358,151,9,509,Wronki,Puchar Wronek,2016/17,3
 Weronika Remisz,kk dziewiątka-amica wronki,F,Juniorki młodsze,362,147,10,509,Wronki,Puchar Wronek,2012/13,4
 Tymoteusz Ratajczak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,353,156,3,509,Wronki,Puchar Wronek,2013/14,2
 Krzysztof Zagata,sglk gostyń,M,Juniorzy młodsi,343,166,10,509,Wronki,Puchar Wronek,2013/14,2
@@ -941,7 +881,6 @@ Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Młodzicy,332,177,4,509,Wronki,M
 Sandra Mrowiec,osir vector tarnowo podgórne,F,Juniorki młodsze,341,167,7,508,Sieraków,Puchar Starosty,2016/17,4
 Gracjan Machaj,kk dziewiątka-amica wronki,M,Juniorzy młodsi,349,159,1,508,Sieraków,Puchar Starosty,2016/17,4
 Maja Wąsala,osir vector tarnowo podgórne,F,Młodziczki,350,158,11,508,Sieraków,Puchar Starosty,2016/17,4
-Jan Gruszczyński,ks polonia 1912 leszno,M,Juniorzy młodsi,338,170,3,508,Wronki,Puchar Wronek,2016/17,3
 Maciej Kozłowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,361,147,7,508,Wronki,Puchar Wronek,2013/14,2
 Krzysztof Bartkowiak,osir vector tarnowo podgórne,M,Młodzicy,352,156,9,508,Wronki,Puchar Wronek,2015/16,3
 Daniel Knitter,mlks tucholanka tuchola,M,Juniorzy młodsi,330,178,6,508,Wronki,Puchar Wronek,2015/16,3
@@ -962,7 +901,6 @@ Krystian Górniak,kk dziewiątka-amica wronki,M,Młodzicy,351,157,13,508,Leszno,
 Natalia Cebula,bosir brzesko,F,Juniorki młodsze,349,158,7,507,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Sandra Mrowiec,osir vector tarnowo podgórne,F,Juniorki młodsze,344,163,7,507,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Jędrzej Nowak,ks start gostyń,M,Juniorzy młodsi,350,157,6,507,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Daria Zdulska,ks pilica tomaszów mazowiecki,F,Młodziczki,331,176,12,507,Wronki,Puchar Wronek,2016/17,3
 Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,352,155,9,507,Tuchola,MP Młodzików,2016/17,11
 Małgorzata Kompa,ks pilica tomaszów mazowiecki,F,Młodziczki,350,157,9,507,Tuchola,MP Młodzików,2016/17,11
 Daria Klunder,mlks tucholanka tuchola,F,Juniorki młodsze,340,167,4,507,Wronki,Puchar Wronek,2012/13,4
@@ -993,9 +931,6 @@ Anna Piotrowska,kk dziewiątka-amica wronki,F,Juniorki młodsze,350,156,8,506,Le
 Anna Łochowicz,ks polonia 1912 leszno,F,Młodziczki,322,184,11,506,Leszno,MP Młodzików,2015/16,12
 Karolina Sarbak,kk dziewiątka-amica wronki,F,Młodziczki,350,156,13,506,Wronki,MP Młodzików,2014/15,12
 Jakub Cwojdziński,osir vector tarnowo podgórne,M,Juniorzy młodsi,347,158,6,505,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Krystian Górniak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,366,139,10,505,Wronki,Puchar Wronek,2016/17,3
-Bartosz Kozłowski,kk dziewiątka-amica wronki,M,Młodzicy,353,152,7,505,Wronki,Puchar Wronek,2016/17,3
-Kevin Prętki,kk dziewiątka-amica wronki,M,Młodzicy,351,154,15,505,Wronki,Puchar Wronek,2016/17,3
 Jakub Cwojdziński,ks alfa-vector tarnowo podgórne,M,Młodzicy,338,167,7,505,Wronki,Puchar Wronek,2012/13,4
 Dawid Nowak,ks czarna kula poznań,M,Juniorzy młodsi,349,156,7,505,Wronki,Puchar Wronek,2012/13,4
 Denis Hofman,skk primator nachod,M,Młodzicy,356,149,9,505,Wronki,Puchar Wronek,2013/14,2
@@ -1023,7 +958,6 @@ Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,368,137,7,50
 Jędrzej Dmowski,osir vector tarnowo podgórne,M,Młodzicy,356,149,12,505,Leszno,Memoriał,2014/15,4
 Jakub Kuryło,bosir brzesko,M,Młodzicy,362,143,12,505,Leszno,MP Młodzików,2015/16,12
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Młodziczki,352,153,6,505,Wronki,Turniej Świąteczny,2014/15,12
-Daniel Izydorek,ks czarna kula poznań,M,Młodzicy,351,153,15,504,Wronki,Puchar Wronek,2016/17,3
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,341,163,2,504,Wronki,Puchar Wronek,2012/13,4
 Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,338,166,7,504,Wronki,Puchar Wronek,2012/13,4
 Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,341,163,2,504,Wronki,Puchar Wronek,2013/14,2
@@ -1049,7 +983,6 @@ Jakub Cwojdziński,ks alfa-vector tarnowo podgórne,M,Młodzicy,354,150,8,504,Le
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Młodziczki,352,152,5,504,Wronki,MP Młodzików,2014/15,12
 Maciej Fot,kk dziewiątka-amica wronki,M,Juniorzy młodsi,353,150,10,503,Leszno,Memoriał,2016/17,4
 Julia Brodziszewska,kk dziewiątka-amica wronki,F,Juniorki młodsze,344,159,7,503,Leszno,Memoriał,2016/17,4
-Iwona Dziamska,osir vector tarnowo podgórne,F,Młodziczki,345,158,9,503,Wronki,Puchar Wronek,2016/17,3
 Krystian Górniak,kk dziewiątka-amica wronki,M,Młodzicy,344,159,11,503,Wronki,Puchar Wronek,2012/13,4
 Jędrzej Michalak,ks start gostyń,M,Juniorzy młodsi,339,164,1,503,Wronki,Puchar Wronek,2012/13,4
 Mateusz Gromadecki,osir vector tarnowo podgórne,M,Młodzicy,356,147,8,503,Wronki,Puchar Wronek,2013/14,2
@@ -1074,8 +1007,6 @@ Aleksandra Bonk,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,343,160,7,5
 Mateusz Kraczewski,ks polonia 1912 leszno,M,Młodzicy,340,163,9,503,Leszno,MP Młodzików,2015/16,12
 Julia Paszyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,356,146,9,502,Sieraków,Puchar Starosty,2016/17,4
 Tobiasz Wilk,kk dziewiątka-amica wronki,M,Młodzicy,343,159,6,502,Sieraków,Puchar Starosty,2016/17,4
-Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,349,153,9,502,Wronki,Puchar Wronek,2016/17,3
-Weronika Roszak,kk dziewiątka-amica wronki,F,Młodziczki,354,148,11,502,Wronki,Puchar Wronek,2016/17,3
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Młodziczki,357,145,10,502,Wronki,Puchar Wronek,2012/13,4
 Michał Tomaszewski,ks polonia 1912 leszno,M,Juniorzy młodsi,334,168,9,502,Wronki,Puchar Wronek,2012/13,4
 Marta Gołębiewska,ks zatoka puck,F,Juniorki młodsze,349,153,8,502,Wronki,Puchar Wronek,2012/13,4
@@ -1162,7 +1093,6 @@ Jan Klemenski,kk dziewiątka-amica wronki,M,Juniorzy młodsi,341,157,8,498,Tomas
 Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,356,142,11,498,Leszno,Memoriał,2016/17,4
 Tomasz Byliński,osir vector tarnowo podgórne,M,Juniorzy młodsi,332,166,7,498,Sieraków,Puchar Starosty,2016/17,4
 Krzysztof Przewoźny,kk dziewiątka-amica wronki,M,Młodzicy,351,147,8,498,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Alan Rybiński,ks polonia 1912 leszno,M,Juniorzy młodsi,332,166,6,498,Wronki,Puchar Wronek,2016/17,3
 Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Młodzicy,345,153,11,498,Wronki,Puchar Wronek,2013/14,2
 Nicoletta Dudziak,ks polonia 1912 leszno,F,Młodziczki,350,148,8,498,Wronki,Puchar Wronek,2013/14,2
 Patryk Nowak,ks czarna kula poznań,M,Juniorzy młodsi,367,131,16,498,Wronki,Puchar Wronek,2013/14,2
@@ -1189,8 +1119,6 @@ Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,356,141,6,497,Siera
 Mateusz Sawala,kk dziewiątka-amica wronki,M,Juniorzy młodsi,336,161,5,497,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,340,157,5,497,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Aleksandra Banaszak,ks start gostyń,F,Młodziczki,371,126,13,497,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Jerzy Gołębiewski,ks zatoka puck,M,Juniorzy młodsi,344,153,6,497,Wronki,Puchar Wronek,2016/17,3
-Sandra Mrowiec,osir vector tarnowo podgórne,F,Juniorki młodsze,350,147,10,497,Wronki,Puchar Wronek,2016/17,3
 Aleksandra Metlicka,mlks tucholanka tuchola,F,Młodziczki,330,167,8,497,Wronki,Puchar Wronek,2012/13,4
 Daniel Kreft,ks zatoka puck,M,Juniorzy młodsi,341,156,11,497,Wronki,Puchar Wronek,2012/13,4
 Mateusz Gromadecki,osir vector tarnowo podgórne,M,Juniorzy młodsi,348,149,6,497,Wronki,Puchar Wronek,2012/13,4
@@ -1236,7 +1164,6 @@ Bartosz Pośladek,bosir brzesko,M,Juniorzy młodsi,344,151,8,495,Tomaszów Mazow
 Mateusz Kraczewski,ks polonia 1912 leszno,M,Młodzicy,361,134,9,495,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,334,161,7,495,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Weronika Roszak,kk dziewiątka-amica wronki,F,Młodziczki,349,146,11,495,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Małgorzata Kompa,ks pilica tomaszów mazowiecki,F,Młodziczki,353,142,9,495,Wronki,Puchar Wronek,2016/17,3
 Filip Łochowcz,ks polonia 1912 leszno,M,Młodzicy,350,145,7,495,Tuchola,MP Młodzików,2016/17,11
 Łukasz Kołodziej,uks kormoran sieraków,M,Juniorzy młodsi,338,157,9,495,Wronki,Puchar Wronek,2013/14,2
 Kacper Kuchnowski,ks zatoka puck,M,Juniorzy młodsi,348,147,17,495,Wronki,Puchar Wronek,2015/16,3
@@ -1255,9 +1182,6 @@ Miłosz Borowski,ks pilica tomaszów mazowiecki,M,Młodzicy,338,157,15,495,Leszn
 Julia Filipiec,kk dziewiątka-amica wronki,F,Młodziczki,346,149,8,495,Wronki,MP Młodzików,2014/15,12
 Patryk Mrowiec,osir vector tarnowo podgórne,M,Juniorzy młodsi,335,159,6,494,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Julia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,336,158,10,494,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Michał Skalski,ks pilica tomaszów mazowiecki,M,Młodzicy,349,145,13,494,Wronki,Puchar Wronek,2016/17,3
-Maksymilian Kmieciak,kk wrzos sieraków,M,Młodzicy,363,131,18,494,Wronki,Puchar Wronek,2016/17,3
-Maja Wąsala,osir vector tarnowo podgórne,F,Młodziczki,339,155,8,494,Wronki,Puchar Wronek,2016/17,3
 Jędrzej Nowak,ks start gostyń,M,Juniorzy młodsi,344,150,8,494,Wronki,Puchar Wronek,2012/13,4
 Kacper Kuchnowski,ks zatoka puck,M,Juniorzy młodsi,362,132,14,494,Wronki,Puchar Wronek,2012/13,4
 Maciej Fot,kk dziewiątka-amica wronki,M,Młodzicy,348,146,10,494,Wronki,Puchar Wronek,2013/14,2
@@ -1284,9 +1208,6 @@ Jędrzej Dmowski,osir vector tarnowo podgórne,M,Juniorzy młodsi,342,151,9,493,
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,321,172,8,493,Leszno,Memoriał,2016/17,4
 Krzysztof Przewoźny,kk dziewiątka-amica wronki,M,Młodzicy,343,150,10,493,Sieraków,Puchar Starosty,2016/17,4
 Julia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,339,154,11,493,Sieraków,Puchar Starosty,2016/17,4
-Anna Babraj,bosir brzesko,F,Juniorki młodsze,325,168,6,493,Wronki,Puchar Wronek,2016/17,3
-Agnieszka Kreft,tpk wejherowo,F,Juniorki młodsze,352,141,14,493,Wronki,Puchar Wronek,2016/17,3
-Igor Sowik,ks pilica tomaszów mazowiecki,M,Młodzicy,346,147,9,493,Wronki,Puchar Wronek,2016/17,3
 Julia Filipiec,kk dziewiątka-amica wronki,F,Młodziczki,361,132,9,493,Wronki,Puchar Wronek,2012/13,4
 Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Młodzicy,351,142,12,493,Wronki,Puchar Wronek,2013/14,2
 Jolanta Stępczak,ks polonia 1912 leszno,F,Juniorki młodsze,341,152,5,493,Wronki,Puchar Wronek,2013/14,2
@@ -1311,7 +1232,6 @@ Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Młodzicy,359,134,10,493,Wronki
 Hubert Cypel,kk dziewiątka-amica wronki,M,Młodzicy,348,145,10,493,Wronki,MP Młodzików,2014/15,12
 Filip Skalski,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,353,139,9,492,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,339,153,9,492,Sieraków,Puchar Starosty,2016/17,4
-Jakub Cwojdziński,osir vector tarnowo podgórne,M,Juniorzy młodsi,335,157,7,492,Wronki,Puchar Wronek,2016/17,3
 Jakub Kląskała,kk dziewiątka-amica wronki,M,Młodzicy,354,138,11,492,Wronki,Puchar Wronek,2012/13,4
 Martyna Remisz,kk dziewiątka-amica wronki,F,Juniorki młodsze,350,142,4,492,Wronki,Puchar Wronek,2012/13,4
 Jagoda Dziamska,osir vector tarnowo podgórne,F,Juniorki młodsze,346,146,8,492,Wronki,Puchar Wronek,2012/13,4
@@ -1368,8 +1288,6 @@ Katarzyna Paduszyńska,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,344,14
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,353,137,6,490,Sieraków,Puchar Starosty,2016/17,4
 Łukasz Kasprzak,osir vector tarnowo podgórne,M,Juniorzy młodsi,338,152,11,490,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Filip Łochowicz,ks polonia 1912 leszno,M,Młodzicy,363,127,9,490,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Łukasz Kasprzak,osir vector tarnowo podgórne,M,Juniorzy młodsi,345,145,11,490,Wronki,Puchar Wronek,2016/17,3
-Natalia Bucholc,mlks tucholanka tuchola,F,Juniorki młodsze,348,142,13,490,Wronki,Puchar Wronek,2016/17,3
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Młodzicy,343,147,13,490,Wronki,Puchar Wronek,2012/13,4
 Angelika Ciszewska,ks polonia 1912 leszno,F,Młodziczki,327,163,8,490,Wronki,Puchar Wronek,2012/13,4
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Młodzicy,343,147,13,490,Wronki,Puchar Wronek,2014/15,3
@@ -1394,7 +1312,6 @@ Mateusz Radzi,kk dziewiątka-amica wronki,M,Juniorzy młodsi,352,137,5,489,Tomas
 Aleksandra Paterok,ks polonia łaziska górne,F,Juniorki młodsze,367,122,19,489,Leszno,Memoriał,2016/17,4
 Weronika Paszyk,kk wrzos sieraków,F,Juniorki młodsze,323,166,12,489,Sieraków,Puchar Starosty,2016/17,4
 Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,333,156,11,489,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Kacper Kauzonowski,mlks tucholanka tuchola,M,Młodzicy,349,140,15,489,Wronki,Puchar Wronek,2016/17,3
 Mateusz Kraczewski,ks polonia 1912 leszno,M,Młodzicy,333,156,7,489,Tuchola,MP Młodzików,2016/17,11
 Jerzy Gołębiewski,ks zatoka puck,M,Młodzicy,357,132,10,489,Wronki,Puchar Wronek,2012/13,4
 Karolina Gurgul,tkkf sokół brzesko,F,Młodziczki,338,151,16,489,Wronki,Puchar Wronek,2012/13,4
@@ -1420,10 +1337,6 @@ Maciej Olczyk,kk dziewiątka-amica wronki,M,Młodzicy,340,149,5,489,Wronki,MP M�
 Mateusz Gromadecki,osir vector tarnowo podgórne,M,Juniorzy młodsi,331,157,13,488,Leszno,Memoriał,2016/17,4
 Kevin Prętki,kk dziewiątka-amica wronki,M,Młodzicy,336,152,11,488,Sieraków,Puchar Starosty,2016/17,4
 Patryk Mrowiec,osir vector tarnowo podgórne,M,Juniorzy młodsi,319,169,7,488,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Wiktor Nowak,kk wrzos sieraków,M,Juniorzy młodsi,345,143,7,488,Wronki,Puchar Wronek,2016/17,3
-Nicola Kobiór,ks polonia łaziska górne,F,Młodziczki,334,154,11,488,Wronki,Puchar Wronek,2016/17,3
-Daria Zdulska,ks pilica tomaszów mazowiecki,F,Młodziczki,343,145,16,488,Wronki,Puchar Wronek,2016/17,3
-Julia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,361,127,10,488,Wronki,Puchar Wronek,2016/17,3
 Angelika Przybysz,kk dziewiątka-amica wronki,F,Młodziczki,337,151,7,488,Wronki,Puchar Wronek,2012/13,4
 Anna Babraj,tkkf sokół brzesko,F,Młodziczki,343,145,11,488,Wronki,Puchar Wronek,2012/13,4
 Kacper Adamczak,uks kormoran sieraków,M,Juniorzy młodsi,339,149,8,488,Wronki,Puchar Wronek,2013/14,2
@@ -1447,7 +1360,6 @@ Viktor Gruszczyński,ks polonia 1912 leszno,M,Juniorzy młodsi,325,163,11,488,Go
 Mateusz Kląskała,kk dziewiątka-amica wronki,M,Juniorzy młodsi,338,150,6,488,Leszno,Memoriał,2014/15,4
 Angelika Przybysz,kk dziewiątka-amica wronki,F,Młodziczki,352,136,9,488,Wronki,Turniej Świąteczny,2014/15,12
 Marcin Fraś,kk dziewiątka-amica wronki,M,Młodzicy,331,156,8,487,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Anna Łochowicz,ks polonia 1912 leszno,F,Juniorki młodsze,358,129,13,487,Wronki,Puchar Wronek,2016/17,3
 Igor Sowik,ks pilica tomaszów mazowiecki,M,Młodzicy,337,150,11,487,Tuchola,MP Młodzików,2016/17,11
 Maciej Sawala,kk dziewiątka-amica wronki,M,Młodzicy,334,153,11,487,Tuchola,MP Młodzików,2016/17,11
 Aleksander Nowacki,mlks tucholanka tuchola,M,Juniorzy młodsi,323,164,6,487,Wronki,Puchar Wronek,2012/13,4
@@ -1469,8 +1381,6 @@ Bartosz Ruszczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,345,142,12,487,W
 Jerzy Gołębiewski,ks zatoka puck,M,Młodzicy,341,146,8,487,Wronki,MP Młodzików,2014/15,12
 Daniel Izydorek,ks czarna kula poznań,M,Młodzicy,323,163,10,486,Sieraków,Puchar Starosty,2016/17,4
 Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,324,162,6,486,Sieraków,Puchar Starosty,2016/17,4
-Weronika Roszak,kk dziewiątka-amica wronki,F,Młodziczki,341,145,11,486,Wronki,Puchar Wronek,2016/17,3
-Julia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,347,139,10,486,Wronki,Puchar Wronek,2016/17,3
 Borys Piasta,ks czarna kula poznań,M,Młodzicy,328,158,13,486,Tuchola,MP Młodzików,2016/17,11
 Jędrzej Dmowski,osir vector tarnowo podgórne,M,Młodzicy,347,139,11,486,Wronki,Puchar Wronek,2012/13,4
 Jędrzej Dmowski,osir vector tarnowo podgórne,M,Młodzicy,347,139,11,486,Wronki,Puchar Wronek,2014/15,3
@@ -1489,7 +1399,6 @@ Wojciech Piotrowski,uks kormoran sieraków,M,Młodzicy,342,144,10,486,Leszno,Mem
 Anna Łochowicz,ks polonia 1912 leszno,F,Młodziczki,335,151,11,486,Leszno,Memoriał,2014/15,4
 Sandra Szczepska,kk dziewiątka-amica wronki,F,Juniorki młodsze,335,150,7,485,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Maciej Fot,kk dziewiątka-amica wronki,M,Juniorzy młodsi,337,148,10,485,Sieraków,Puchar Starosty,2016/17,4
-Filip Skalski,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,329,156,8,485,Wronki,Puchar Wronek,2016/17,3
 Marcin Byliński,osir vector tarnowo podgórne,M,Młodzicy,338,147,12,485,Tuchola,MP Młodzików,2016/17,11
 Szymon Kaliski,ks polonia 1912 leszno,M,Juniorzy młodsi,353,132,10,485,Wronki,Puchar Wronek,2012/13,4
 Weronika Torka,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,349,136,14,485,Wronki,Puchar Wronek,2013/14,2
@@ -1536,7 +1445,6 @@ Wiktor Nowak,kk wrzos sieraków,M,Juniorzy młodsi,349,134,12,483,Sieraków,Puch
 Marcin Fraś,kk dziewiątka-amica wronki,M,Młodzicy,347,136,13,483,Sieraków,Puchar Starosty,2016/17,4
 Mateusz Grzywaczewski,kk dziewiątka-amica wronki,M,Młodzicy,334,149,14,483,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Natalia Schweissing,mlks tucholanka tuchola,F,Młodziczki,337,146,14,483,Wronki,Puchar Wronek,2016/17,3
-Natalia Schweissing,mlks tucholanka tuchola,F,Młodziczki,337,146,14,483,Wronki,Puchar Wronek,2016/17,3
 Daria Klunder,mlks tucholanka tuchola,F,Juniorki młodsze,349,134,11,483,Wronki,Turniej Świąteczny,2015/16,12
 Martyna Remisz,kk dziewiątka-amica wronki,F,Juniorki młodsze,343,140,12,483,Wronki,Turniej Świąteczny,2015/16,12
 Jakub Kląskała,kk dziewiątka-amica wronki,M,Młodzicy,332,151,13,483,Wronki,Turniej Świąteczny,2015/16,12
@@ -1552,10 +1460,6 @@ Maciej Olczyk,kk dziewiątka-amica wronki,M,Młodzicy,351,132,13,483,Wronki,Turn
 Hubert Cypel,kk dziewiątka-amica wronki,M,Młodzicy,340,143,8,483,Wronki,MP Młodzików,2014/15,12
 Jędrzej Nowak,ks start gostyń,M,Juniorzy młodsi,348,134,14,482,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Wiktoria Jądrzyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,344,138,11,482,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Ewa Benke,mlks tucholanka tuchola,F,Juniorki młodsze,334,148,14,482,Wronki,Puchar Wronek,2016/17,3
-Borys Piasta,ks czarna kula poznań,M,Młodzicy,320,162,12,482,Wronki,Puchar Wronek,2016/17,3
-Łukasz Bacza,ks polonia łaziska górne,M,Młodzicy,323,159,10,482,Wronki,Puchar Wronek,2016/17,3
-Maja Wąsala,osir vector tarnowo podgórne,F,Młodziczki,343,139,13,482,Wronki,Puchar Wronek,2016/17,3
 Bartosz Ruszczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,330,152,5,482,Wronki,Puchar Wronek,2012/13,4
 Bartosz Ruszczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,330,152,5,482,Wronki,Puchar Wronek,2014/15,3
 Borys Piasta,ks czarna kula poznań,M,Młodzicy,320,162,12,482,Wronki,Puchar Wronek,2016/17,3
@@ -1577,7 +1481,6 @@ Julia Grocholska,kk dziewiątka-amica wronki,F,Juniorki młodsze,341,141,11,482,
 Angelika Ciszewska,ks polonia 1912 leszno,F,Młodziczki,356,126,17,482,Wronki,MP Młodzików,2014/15,12
 Damian Czernecki,bosir brzesko,M,Juniorzy młodsi,342,139,10,481,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Marcin Byliński,osir vector tarnowo podgórne,M,Młodzicy,334,147,18,481,Sieraków,Puchar Starosty,2016/17,4
-Weronika Wruck,mlks tucholanka tuchola,F,Juniorki młodsze,344,137,11,481,Wronki,Puchar Wronek,2016/17,3
 W k,kk dziewiątka-amica wronki,F,Młodziczki,315,166,8,481,Wronki,Puchar Wronek,2012/13,4
 Marcin Aleksandrzak,ks czarna kula poznań,M,Młodzicy,333,148,9,481,Wronki,Puchar Wronek,2013/14,2
 Angelika Przybysz,kk dziewiątka-amica wronki,F,Młodziczki,337,144,9,481,Wronki,Puchar Wronek,2013/14,2
@@ -1586,6 +1489,7 @@ Weronika Wruck,mlks tucholanka tuchola,F,Juniorki młodsze,344,137,11,481,Wronki
 Aleksander Nowacki,mlks tucholanka tuchola,M,Juniorzy młodsi,326,155,6,481,Gostyń,MP Juniorów Młodszych,2015/16,4
 Maja Wąsala,osir vector tarnowo podgórne,F,Młodziczki,360,121,15,481,Tarnowo Podgórne,MMM,2015/16,4
 Julia Paszyk,kk dziewiątka-amica wronki,F,Młodziczki,334,147,14,481,Gostyń,Turniej Świąteczny,2013/14,12
+Jędrzej Nowak,ks start gostyń,M,Juniorzy młodsi,368,113,9,481,Gostyń,Memoriał,2015/16,11
 Patryk Skorczyk,osir vector tarnowo podgórne,M,Juniorzy młodsi,356,125,6,481,Gostyń,Memoriał,2014/15,11
 Martin Hanuš,skk primator nachod,M,Młodzicy,340,141,14,481,Gostyń,Memoriał,2016/17,11
 Weronika Remisz,kk dziewiątka-amica wronki,F,Juniorki młodsze,366,115,15,481,Leszno,Memoriał,2014/15,4
@@ -1614,7 +1518,6 @@ Anita Szponar,osir vector tarnowo podgórne,F,Juniorki młodsze,338,142,13,480,L
 Julia Filipiec,kk dziewiątka-amica wronki,F,Młodziczki,337,143,9,480,Wronki,Turniej Świąteczny,2014/15,12
 Dominik Nowicki,kk dziewiątka-amica wronki,M,Juniorzy młodsi,331,148,13,479,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Wojciech Anklam,kk dziewiątka-amica wronki,M,Młodzicy,342,137,12,479,Sieraków,Puchar Starosty,2016/17,4
-Mateusz Kraczewski,ks polonia 1912 leszno,M,Młodzicy,327,152,5,479,Wronki,Puchar Wronek,2016/17,3
 Dominik Nowicki,kk dziewiątka-amica wronki,M,Młodzicy,341,138,13,479,Wronki,Puchar Wronek,2012/13,4
 Jędrzej Nowak,ks start gostyń,M,Młodzicy,320,159,11,479,Wronki,Puchar Wronek,2013/14,2
 Rafał Frąckowiak,ks start gostyń,M,Juniorzy młodsi,323,156,10,479,Wronki,Puchar Wronek,2013/14,2
@@ -1634,8 +1537,6 @@ Jakub Kląskała,kk dziewiątka-amica wronki,M,Młodzicy,341,138,10,479,Wronki,T
 Julia Paszyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,348,130,14,478,Sieraków,Puchar Starosty,2016/17,4
 Borys Piasta,ks czarna kula poznań,M,Młodzicy,332,146,13,478,Sieraków,Puchar Starosty,2016/17,4
 Julia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,337,141,17,478,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Klaudia Batko,bosir brzesko,F,Juniorki młodsze,324,154,9,478,Wronki,Puchar Wronek,2016/17,3
-Klaudiusz Bryćko,kk dziewiątka-amica wronki,M,Młodzicy,348,130,21,478,Wronki,Puchar Wronek,2016/17,3
 Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Młodzicy,328,150,10,478,Wronki,Puchar Wronek,2012/13,4
 Mikołaj Kosowicz,ks start gostyń,M,Juniorzy młodsi,340,138,12,478,Wronki,Puchar Wronek,2013/14,2
 Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Młodzicy,328,150,10,478,Wronki,Puchar Wronek,2014/15,3
@@ -1650,6 +1551,7 @@ Jerzy Gołębiewski,ks zatoka puck,M,Młodzicy,350,128,20,478,Tuchola,Puchar Bor
 Aleksander Kulesza,mlks tucholanka tuchola,M,Młodzicy,323,155,11,478,Tuchola,Puchar Borów Tucholskich,2015/16,10
 Damian Czernecki,tkkf sokół brzesko,M,Juniorzy młodsi,331,147,6,478,Gostyń,Memoriał,2015/16,11
 Karolina Gurgul,tkkf sokół brzesko,F,Juniorki młodsze,354,124,17,478,Gostyń,Memoriał,2015/16,11
+Bartosz Pośladek,tkkf sokół brzesko,M,Juniorzy młodsi,355,123,15,478,Gostyń,Memoriał,2015/16,11
 Tomasz Cwojdziński,ks alfa-vector tarnowo podgórne,M,Juniorzy młodsi,323,155,6,478,Gostyń,Memoriał,2014/15,11
 Szymon Klimek,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,342,136,7,478,Gostyń,Memoriał,2014/15,11
 Łukasz Erkier,ks polonia łaziska górne,M,Juniorzy młodsi,322,156,13,478,Gostyń,Memoriał,2016/17,11
@@ -1660,7 +1562,6 @@ Tomasz Byliński,osir vector tarnowo podgórne,M,Młodzicy,350,128,13,478,Leszno
 Marcelina Stróżyńska,ks polonia 1912 leszno,F,Juniorki młodsze,348,129,18,477,Leszno,Memoriał,2016/17,4
 Bartosz Kozłowski,kk dziewiątka-amica wronki,M,Młodzicy,325,152,12,477,Sieraków,Puchar Starosty,2016/17,4
 Krystian Górniak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,339,138,13,477,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Bartosz Pośladek,bosir brzesko,M,Juniorzy młodsi,330,147,9,477,Wronki,Puchar Wronek,2016/17,3
 Krzysztof Bartkowiak,osir vector tarnowo podgórne,M,Młodzicy,337,140,11,477,Tuchola,MP Młodzików,2016/17,11
 Szymon Kaliski,ks polonia 1912 leszno,M,Juniorzy młodsi,308,169,7,477,Wronki,Puchar Wronek,2013/14,2
 Bartosz Pośladek,bosir brzesko,M,Juniorzy młodsi,330,147,9,477,Wronki,Puchar Wronek,2016/17,3
@@ -1707,7 +1608,6 @@ Kacper Kuchnowski,ks zatoka puck,M,Juniorzy młodsi,324,151,6,475,Tomaszów Mazo
 Patryk Lukaszewski,ks start gostyń,M,Juniorzy młodsi,338,137,7,475,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Mateusz Gromadecki,osir vector tarnowo podgórne,M,Juniorzy młodsi,319,156,8,475,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Kamil Kaczmarek,kk dziewiątka-amica wronki,M,Młodzicy,354,121,15,475,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Monika Kaluszka,ks pilica tomaszów mazowiecki,F,Młodziczki,352,123,14,475,Wronki,Puchar Wronek,2016/17,3
 Mateusz Bartkowiak,osir vector tarnowo podgórne,M,Młodzicy,330,145,9,475,Wronki,Puchar Wronek,2012/13,4
 Wiktor Mazur,osir vector tarnowo podgórne,M,Juniorzy młodsi,332,143,12,475,Wronki,Puchar Wronek,2012/13,4
 Bartosz Pośladek,tkkf sokół brzesko,M,Juniorzy młodsi,344,131,9,475,Wronki,Puchar Wronek,2012/13,4
@@ -1725,7 +1625,6 @@ Helena Mervartová,skk primator nachod,F,Młodziczki,334,141,14,475,Gostyń,Memo
 Rafał Frąckowiak,ks start gostyń,M,Juniorzy młodsi,336,139,9,475,Leszno,Memoriał,2014/15,4
 Krystian Górniak,kk dziewiątka-amica wronki,M,Młodzicy,335,140,13,475,Leszno,MP Młodzików,2015/16,12
 Alan Rybiński,ks polonia 1912 leszno,M,Juniorzy młodsi,335,139,8,474,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Filip Łochowicz,ks polonia 1912 leszno,M,Młodzicy,345,129,8,474,Wronki,Puchar Wronek,2016/17,3
 Patryk Lukaszewski,ks start gostyń,M,Młodzicy,351,123,8,474,Wronki,Puchar Wronek,2013/14,2
 Hubert Cypel,kk dziewiątka-amica wronki,M,Młodzicy,337,137,16,474,Wronki,Puchar Wronek,2015/16,3
 Filip Łochowicz,ks polonia 1912 leszno,M,Młodzicy,345,129,8,474,Wronki,Puchar Wronek,2016/17,3
@@ -1740,10 +1639,6 @@ Justyna Wegner,mlks tucholanka tuchola,F,Juniorki młodsze,360,114,14,474,Gosty�
 Jagoda Dziamska,osir vector tarnowo podgórne,F,Juniorki młodsze,305,169,7,474,Leszno,Memoriał,2014/15,4
 Angelika Przybysz,kk dziewiątka-amica wronki,F,Młodziczki,347,127,13,474,Leszno,MP Młodzików,2015/16,12
 Marcin Fraś,kk dziewiątka-amica wronki,M,Młodzicy,334,139,11,473,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Łukasz Erkier,ks polonia łaziska górne,M,Juniorzy młodsi,333,140,13,473,Wronki,Puchar Wronek,2016/17,3
-Norbert Muzolf,mlks tucholanka tuchola,M,Juniorzy młodsi,340,133,15,473,Wronki,Puchar Wronek,2016/17,3
-Angelika Ciszewska,ks polonia 1912 leszno,F,Juniorki młodsze,320,153,8,473,Wronki,Puchar Wronek,2016/17,3
-Jakub Kląskała,kk dziewiątka-amica wronki,M,Młodzicy,350,123,13,473,Wronki,Puchar Wronek,2016/17,3
 Mateusz Grzywaczewski,kk dziewiątka-amica wronki,M,Młodzicy,337,136,9,473,Tuchola,MP Młodzików,2016/17,11
 Weronika Szczerkowska,tpk wejherowo,F,Młodziczki,338,135,17,473,Wronki,Puchar Wronek,2012/13,4
 Damian Czernecki,tkkf sokół brzesko,M,Juniorzy młodsi,348,125,9,473,Wronki,Puchar Wronek,2012/13,4
@@ -1808,7 +1703,6 @@ Filip Płóciniczak,ks polonia 1912 leszno,M,Młodzicy,327,144,10,471,Wronki,MP 
 Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Juniorzy młodsi,338,132,15,470,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Karolina Gurgul,bosir brzesko,F,Juniorki młodsze,331,139,15,470,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Artur Dziamski,osir vector tarnowo podgórne,M,Młodzicy,330,140,14,470,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Igor Szydłowski,bosir brzesko,M,Juniorzy młodsi,335,135,6,470,Wronki,Puchar Wronek,2016/17,3
 Szymon Kosz,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,325,145,8,470,Wronki,Puchar Wronek,2015/16,3
 Igor Szydłowski,bosir brzesko,M,Juniorzy młodsi,335,135,6,470,Wronki,Puchar Wronek,2016/17,3
 Patryk Mrowiec,osir vector tarnowo podgórne,M,Juniorzy młodsi,324,146,9,470,Gostyń,MP Juniorów Młodszych,2015/16,4
@@ -1822,10 +1716,6 @@ Krzysztof Zagata,sglk gostyń,M,Juniorzy młodsi,327,143,10,470,Leszno,Memoriał
 Dominik Nowicki,kk dziewiątka-amica wronki,M,Młodzicy,336,134,13,470,Wronki,Turniej Świąteczny,2014/15,12
 Karolina Sarbak,kk dziewiątka-amica wronki,F,Młodziczki,350,120,16,470,Wronki,MP Młodzików,2014/15,12
 Filip Łochowicz,ks polonia 1912 leszno,M,Młodzicy,315,154,9,469,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Artur Dziamski,osir vector tarnowo podgórne,M,Młodzicy,334,135,13,469,Wronki,Puchar Wronek,2016/17,3
-Jakub Erkier,ks polonia łaziska górne,M,Młodzicy,334,135,16,469,Wronki,Puchar Wronek,2016/17,3
-Rafał Olejniczak,kk dziewiątka-amica wronki,M,Młodzicy,351,118,23,469,Wronki,Puchar Wronek,2016/17,3
-Julia Bodura,bosir brzesko,F,Młodziczki,348,121,12,469,Wronki,Puchar Wronek,2016/17,3
 Krzysztof Przewoźny,kk dziewiątka-amica wronki,M,Młodzicy,326,143,13,469,Tuchola,MP Młodzików,2016/17,11
 Łukasz Kasprzak,osir vector tarnowo podgórne,M,Juniorzy młodsi,320,149,7,469,Wronki,Puchar Wronek,2012/13,4
 Łukasz Wisiński,mlks tucholanka tuchola,M,Juniorzy młodsi,364,105,16,469,Wronki,Puchar Wronek,2012/13,4
@@ -1854,7 +1744,6 @@ Aleksandra Metlicka,mlks tucholanka tuchola,F,Juniorki młodsze,337,131,13,468,T
 Adrianna Wojciechowska,tskk jedność kościan,F,Juniorki młodsze,354,114,21,468,Leszno,Memoriał,2016/17,4
 Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,323,145,12,468,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Iwona Dziamska,osir vector tarnowo podgórne,F,Młodziczki,327,141,15,468,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Maciej Wojtaszek,ks pilica tomaszów mazowiecki,M,Młodzicy,349,119,16,468,Wronki,Puchar Wronek,2016/17,3
 Mateusz Grzywaczewski,kk dziewiątka-amica wronki,M,Młodzicy,332,136,11,468,Tuchola,MP Młodzików,2016/17,11
 Daniel Kreft,ks zatoka puck,M,Juniorzy młodsi,337,131,18,468,Wronki,Puchar Wronek,2013/14,2
 Julia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,323,145,8,468,Wronki,Puchar Wronek,2015/16,3
@@ -1884,9 +1773,6 @@ Jerzy Gołębiewski,ks zatoka puck,M,Młodzicy,326,141,12,467,Leszno,MP Młodzik
 Bartosz Pośladek,bosir brzesko,M,Juniorzy młodsi,346,120,14,466,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Łukasz Wysiński,mlks tucholanka tuchola,M,Juniorzy młodsi,330,136,9,466,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Sandra Mrowiec,osir vector tarnowo podgórne,F,Juniorki młodsze,340,126,13,466,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Bartosz Grzona,mlks tucholanka tuchola,M,Juniorzy młodsi,328,138,11,466,Wronki,Puchar Wronek,2016/17,3
-Miłosz Piwoński,mlks tucholanka tuchola,M,Juniorzy młodsi,328,138,13,466,Wronki,Puchar Wronek,2016/17,3
-Igor Kolonko,ks polonia łaziska górne,M,Młodzicy,342,124,16,466,Wronki,Puchar Wronek,2016/17,3
 Dominik Dykier,ks polonia 1912 leszno,M,Młodzicy,316,150,11,466,Tuchola,MP Młodzików,2016/17,11
 Julia Filipiec,kk dziewiątka-amica wronki,F,Młodziczki,343,123,12,466,Wronki,Puchar Wronek,2013/14,2
 Wojciech Anklam,kk dziewiątka-amica wronki,M,Młodzicy,330,136,10,466,Wronki,Puchar Wronek,2015/16,3
@@ -1909,7 +1795,6 @@ Karol Kube,ks polonia 1912 leszno,M,Młodzicy,327,139,12,466,Leszno,MP Młodzik�
 Maciej Fot,kk dziewiątka-amica wronki,M,Juniorzy młodsi,314,151,8,465,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Klaudiusz Bryćko,kk dziewiątka-amica wronki,M,Młodzicy,319,146,15,465,Sieraków,Puchar Starosty,2016/17,4
 Maciej Sawala,kk dziewiątka-amica wronki,M,Młodzicy,342,123,17,465,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Weronika Paszyk,kk wrzos sieraków,F,Juniorki młodsze,325,140,17,465,Wronki,Puchar Wronek,2016/17,3
 Igor Sowik,ks pilica tomaszów mazowiecki,M,Młodzicy,353,112,13,465,Tuchola,MP Młodzików,2016/17,11
 Weronika Roszak,kk dziewiątka-amica wronki,F,Młodziczki,336,129,20,465,Tuchola,MP Młodzików,2016/17,11
 Dominika Bucholc,mlks tucholanka tuchola,F,Młodziczki,293,172,6,465,Tuchola,MP Młodzików,2016/17,11
@@ -1924,7 +1809,6 @@ Julia Sidło,ks pilica tomaszów mazowiecki,F,Młodziczki,341,124,16,465,Leszno,
 Viktor Gruszczyński,ks polonia 1912 leszno,M,Juniorzy młodsi,333,131,15,464,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Daniel Pape,kk wrzos sieraków,M,Młodzicy,316,148,13,464,Sieraków,Puchar Starosty,2016/17,4
 Klaudiusz Bryćko,kk dziewiątka-amica wronki,M,Młodzicy,315,149,12,464,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,340,124,15,464,Wronki,Puchar Wronek,2016/17,3
 Klaudia Batko,tkkf sokół brzesko,F,Młodziczki,326,138,13,464,Wronki,Puchar Wronek,2012/13,4
 Dominik Nowicki,kk dziewiątka-amica wronki,M,Młodzicy,328,136,12,464,Wronki,Puchar Wronek,2013/14,2
 Klaudia Batko,tkkf sokół brzesko,F,Młodziczki,326,138,13,464,Wronki,Puchar Wronek,2014/15,3
@@ -1956,8 +1840,6 @@ Filip Łochowicz,ks polonia 1912 leszno,M,Młodzicy,324,139,14,463,Leszno,MP Mł
 Weronika Paszyk,kk wrzos sieraków,F,Juniorki młodsze,322,140,15,462,Leszno,Memoriał,2016/17,4
 Aleksandra Fojud,kk dziewiątka-amica wronki,F,Młodziczki,314,148,11,462,Sieraków,Puchar Starosty,2016/17,4
 Wiktor Nowak,kk wrzos sieraków,M,Juniorzy młodsi,344,118,15,462,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Jagoda Dziamska,osir vector tarnowo podgórne,F,Juniorki młodsze,327,135,13,462,Wronki,Puchar Wronek,2016/17,3
-Aleksandra Paterok,ks polonia łaziska górne,F,Juniorki młodsze,333,129,13,462,Wronki,Puchar Wronek,2016/17,3
 Klaudiusz Bryćko,kk dziewiątka-amica wronki,M,Młodzicy,329,133,15,462,Tuchola,MP Młodzików,2016/17,11
 Kamil Kaczmarek,kk dziewiątka-amica wronki,M,Młodzicy,320,142,16,462,Tuchola,MP Młodzików,2016/17,11
 Hubert Cypel,kk dziewiątka-amica wronki,M,Młodzicy,324,138,17,462,Wronki,Puchar Wronek,2013/14,2
@@ -1974,7 +1856,6 @@ Bartosz Kozłowski,kk dziewiątka-amica wronki,M,Młodzicy,334,128,14,462,Tuchol
 Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,331,131,15,462,Gostyń,Memoriał,2016/17,11
 Dominik Dykier,ks polonia 1912 leszno,M,Młodzicy,318,144,12,462,Leszno,MP Młodzików,2015/16,12
 Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Młodzicy,326,136,13,462,Wronki,Turniej Świąteczny,2014/15,12
-Kamil Kaczmarek,kk dziewiątka-amica wronki,M,Młodzicy,319,142,9,461,Wronki,Puchar Wronek,2016/17,3
 Artur Dziamski,osir vector tarnowo podgórne,M,Młodzicy,337,124,13,461,Tuchola,MP Młodzików,2016/17,11
 Dorota Kwapisz,ks polonia 1912 leszno,F,Juniorki młodsze,320,141,12,461,Wronki,Puchar Wronek,2013/14,2
 Kamil Kaczmarek,kk dziewiątka-amica wronki,M,Młodzicy,319,142,9,461,Wronki,Puchar Wronek,2016/17,3
@@ -2004,8 +1885,6 @@ Mateusz Kraczewski,ks polonia 1912 leszno,M,Młodzicy,338,122,12,460,Gostyń,Mem
 Mateusz Gromadecki,osir vector tarnowo podgórne,M,Juniorzy młodsi,320,140,10,460,Gostyń,Memoriał,2016/17,11
 Mikołaj Kosowicz,ks start gostyń,M,Juniorzy młodsi,338,122,12,460,Leszno,Memoriał,2013/14,3
 Remigiusz Kubiak,kk dziewiątka-amica wronki,M,Młodzicy,312,148,16,460,Wronki,Turniej Świąteczny,2014/15,12
-Marcelina Stróżyńska,ks polonia 1912 leszno,F,Juniorki młodsze,320,139,16,459,Wronki,Puchar Wronek,2016/17,3
-Antoni Nowacki,ks polonia 1912 leszno,M,Młodzicy,314,145,13,459,Wronki,Puchar Wronek,2016/17,3
 Artur Dziamski,osir vector tarnowo podgórne,M,Młodzicy,329,130,20,459,Tuchola,MP Młodzików,2016/17,11
 Anna Łochowicz,ks polonia 1912 leszno,F,Młodziczki,318,141,11,459,Wronki,Puchar Wronek,2012/13,4
 Anna Łochowicz,ks polonia 1912 leszno,F,Młodziczki,318,141,11,459,Wronki,Puchar Wronek,2014/15,3
@@ -2025,7 +1904,6 @@ Dominik Dykier,ks polonia 1912 leszno,M,Młodzicy,312,147,13,459,Leszno,MP Młod
 Wojciech Białkowski,ks pilica tomaszów mazowiecki,M,Młodzicy,344,115,18,459,Wronki,MP Młodzików,2014/15,12
 Jan Klemenski,kk dziewiątka-amica wronki,M,Juniorzy młodsi,312,146,8,458,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Weronika Roszak,kk dziewiątka-amica wronki,F,Młodziczki,340,118,15,458,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Jakub Molik,kk wrzos sieraków,M,Młodzicy,321,137,17,458,Wronki,Puchar Wronek,2016/17,3
 Marika Dudzik,ks polonia 1912 leszno,F,Młodziczki,305,153,15,458,Tuchola,MP Młodzików,2016/17,11
 Jakub Molik,kk wrzos sieraków,M,Młodzicy,321,137,17,458,Wronki,Puchar Wronek,2016/17,3
 Martyna Kopacz,tkkf sokół brzesko,F,Juniorki młodsze,323,135,13,458,Gostyń,MP Juniorów Młodszych,2015/16,4
@@ -2041,8 +1919,6 @@ Karolina Sarbak,kk dziewiątka-amica wronki,F,Młodziczki,318,140,15,458,Wronki,
 Jan Klemenski,kk dziewiątka-amica wronki,M,Młodzicy,341,117,12,458,Wronki,MP Młodzików,2014/15,12
 Karol Kube,ks polonia 1912 leszno,M,Młodzicy,342,116,16,458,Wronki,MP Młodzików,2014/15,12
 M k,kk dziewiątka-amica wronki,F,Młodziczki,313,145,16,458,Wronki,MP Młodzików,2014/15,12
-Bartosz Kozłowski,kk dziewiątka-amica wronki,M,Młodzicy,324,133,12,457,Wronki,Puchar Wronek,2016/17,3
-Emilia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,318,139,14,457,Wronki,Puchar Wronek,2016/17,3
 Wojciech Anklam,kk dziewiątka-amica wronki,M,Młodzicy,325,132,8,457,Tuchola,MP Młodzików,2016/17,11
 Maja Wąsala,osir vector tarnowo podgórne,F,Młodziczki,324,133,14,457,Tuchola,MP Młodzików,2016/17,11
 Karol Kube,ks polonia 1912 leszno,M,Młodzicy,320,137,17,457,Wronki,Puchar Wronek,2012/13,4
@@ -2062,7 +1938,6 @@ Filip Płóciniczak,ks polonia 1912 leszno,M,Młodzicy,315,142,18,457,Leszno,Mem
 Łukasz Kasprzak,osir vector tarnowo podgórne,M,Juniorzy młodsi,312,144,14,456,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Dominik Nowicki,kk dziewiątka-amica wronki,M,Juniorzy młodsi,305,151,12,456,Sieraków,Puchar Starosty,2016/17,4
 Borys Piasta,ks czarna kula poznań,M,Młodzicy,329,127,15,456,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Juniorzy młodsi,334,122,18,456,Wronki,Puchar Wronek,2016/17,3
 Rafał Frąckowiak,ks start gostyń,M,Juniorzy młodsi,318,138,16,456,Wronki,Puchar Wronek,2012/13,4
 Rafał Frąckowiak,ks start gostyń,M,Juniorzy młodsi,318,138,16,456,Wronki,Puchar Wronek,2014/15,3
 Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Juniorzy młodsi,334,122,18,456,Wronki,Puchar Wronek,2016/17,3
@@ -2107,8 +1982,6 @@ Angelika Przybysz,kk dziewiątka-amica wronki,F,Młodziczki,333,121,18,454,Leszn
 Dominik Nowicki,kk dziewiątka-amica wronki,M,Młodzicy,326,128,16,454,Wronki,MP Młodzików,2014/15,12
 Mateusz Bartkowiak,osir vector tarnowo podgórne,M,Młodzicy,337,117,18,454,Wronki,MP Młodzików,2014/15,12
 Anna Łochowicz,ks polonia 1912 leszno,F,Młodziczki,326,128,14,454,Wronki,MP Młodzików,2014/15,12
-Marcin Byliński,osir vector tarnowo podgórne,M,Młodzicy,321,132,15,453,Wronki,Puchar Wronek,2016/17,3
-Oliwia Sygitowicz,ks pilica tomaszów mazowiecki,F,Młodziczki,310,143,14,453,Wronki,Puchar Wronek,2016/17,3
 Maciej Wojtaszek,ks pilica tomaszów mazowiecki,M,Młodzicy,326,127,16,453,Tuchola,MP Młodzików,2016/17,11
 Daria Zdulska,ks pilica tomaszów mazowiecki,F,Młodziczki,313,140,15,453,Tuchola,MP Młodzików,2016/17,11
 Artur Dziamski,osir vector tarnowo podgórne,M,Młodzicy,306,147,9,453,Wronki,Puchar Wronek,2015/16,3
@@ -2156,7 +2029,6 @@ Szymon Borowski,uks kormoran sieraków,M,Młodzicy,307,144,15,451,Leszno,Memoria
 Mateusz Bartowiak,osir vector tarnowo podgórne,M,Młodzicy,324,127,17,451,Leszno,Memoriał,2014/15,4
 Aleksandra Paterok,ks polonia łaziska górne,F,Juniorki młodsze,320,130,12,450,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Maciej Szymański,ks zatoka puck,M,Młodzicy,331,119,21,450,Wronki,Puchar Wronek,2016/17,3
-Maciej Szymański,ks zatoka puck,M,Młodzicy,331,119,21,450,Wronki,Puchar Wronek,2016/17,3
 Jan Klemenski,kk dziewiątka-amica wronki,M,Młodzicy,321,129,12,450,Leszno,Memoriał,2015/16,4
 Iwona Dziamska,osir vector tarnowo podgórne,F,Młodziczki,321,129,18,450,Leszno,Memoriał,2015/16,4
 Monika Kaluszka,ks pilica tomaszów mazowiecki,F,Młodziczki,324,126,17,450,Gostyń,Memoriał,2015/16,11
@@ -2168,9 +2040,6 @@ Dawid Adamski,ks pilica tomaszów mazowiecki,M,Młodzicy,327,123,12,450,Leszno,M
 Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Juniorzy młodsi,315,134,12,449,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Natalia Schweissing,mlks tucholanka tuchola,F,Juniorki młodsze,303,146,14,449,Leszno,Memoriał,2016/17,4
 Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Juniorzy młodsi,319,130,10,449,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Kevin Prętki,kk dziewiątka-amica wronki,M,Młodzicy,327,122,14,449,Wronki,Puchar Wronek,2016/17,3
-Dominika Bucholc,mlks tucholanka tuchola,F,Młodziczki,316,133,13,449,Wronki,Puchar Wronek,2016/17,3
-Wiktoria Król,ks pilica tomaszów mazowiecki,F,Młodziczki,323,126,14,449,Wronki,Puchar Wronek,2016/17,3
 Wojciech Nowak,ks start gostyń,M,Młodzicy,324,125,17,449,Tuchola,MP Młodzików,2016/17,11
 Weronika Roszak,kk dziewiątka-amica wronki,F,Młodziczki,308,141,16,449,Tuchola,MP Młodzików,2016/17,11
 Kevin Prętki,kk dziewiątka-amica wronki,M,Młodzicy,327,122,14,449,Wronki,Puchar Wronek,2016/17,3
@@ -2193,7 +2062,6 @@ Mateusz Grzywaczewski,kk dziewiątka-amica wronki,M,Młodzicy,315,134,13,449,Wro
 Maksymilian Kmieciak,kk wrzos sieraków,M,Młodzicy,326,122,9,448,Sieraków,Puchar Starosty,2016/17,4
 Kamil Kaczmarek,kk dziewiątka-amica wronki,M,Młodzicy,316,132,15,448,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Maja Karpowicz,ks polonia łaziska górne,F,Młodziczki,329,119,18,448,Wronki,Puchar Wronek,2016/17,3
-Maja Karpowicz,ks polonia łaziska górne,F,Młodziczki,329,119,18,448,Wronki,Puchar Wronek,2016/17,3
 Jędrzej Dmowski,osir vector tarnowo podgórne,M,Młodzicy,331,117,19,448,Leszno,MP Młodzików,2013/14,12
 Tobiasz Wilk,kk dziewiątka-amica wronki,M,Młodzicy,324,124,14,448,Tarnowo Podgórne,MMM,2015/16,4
 Aleksandra Metlicka,mlks tucholanka tuchola,F,Juniorki młodsze,320,128,14,448,Leszno,Memoriał,2015/16,4
@@ -2201,7 +2069,6 @@ Mateusz Grzywaczewski,kk dziewiątka-amica wronki,M,Młodzicy,328,120,20,448,Gos
 Izabela Szczukowska,mlks tucholanka tuchola,F,Juniorki młodsze,338,110,11,448,Leszno,Memoriał,2013/14,3
 Małgorzata Leśniewska,ks pilica tomaszów mazowiecki,F,Juniorki młodsze,313,134,14,447,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Wojciech Anklam,kk dziewiątka-amica wronki,M,Młodzicy,318,129,16,447,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Gabriel Zastawnik,bosir brzesko,M,Młodzicy,334,113,18,447,Wronki,Puchar Wronek,2016/17,3
 Rafał Olejniczak,kk dziewiątka-amica wronki,M,Młodzicy,319,128,17,447,Tuchola,MP Młodzików,2016/17,11
 Dominika Bucholc,mlks tucholanka tuchola,F,Młodziczki,326,121,16,447,Tuchola,MP Młodzików,2016/17,11
 Alicja Michalska,kk dziewiątka-amica wronki,F,Młodziczki,321,126,15,447,Wronki,Puchar Wronek,2012/13,4
@@ -2222,7 +2089,6 @@ Borys Piasta,ks czarna kula poznań,M,Młodzicy,316,131,12,447,Gostyń,Memoriał
 Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Młodzicy,328,119,10,447,Wronki,MP Młodzików,2014/15,12
 Jędrzej Dmowski,osir vector tarnowo podgórne,M,Młodzicy,326,121,11,447,Wronki,MP Młodzików,2014/15,12
 Marcin Byliński,osir vector tarnowo podgórne,M,Młodzicy,308,138,10,446,Sieraków,Puchar Starosty,2016/17,4
-Aleksandra Fojud,kk dziewiątka-amica wronki,F,Młodziczki,332,114,17,446,Wronki,Puchar Wronek,2016/17,3
 Maciej Sawala,kk dziewiątka-amica wronki,M,Młodzicy,329,117,15,446,Tuchola,MP Młodzików,2016/17,11
 Rafał Olejniczak,kk dziewiątka-amica wronki,M,Młodzicy,306,140,11,446,Tuchola,MP Młodzików,2016/17,11
 Daria Zdulska,ks pilica tomaszów mazowiecki,F,Młodziczki,299,147,13,446,Tuchola,MP Młodzików,2016/17,11
@@ -2235,7 +2101,6 @@ Julia Paszyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,306,140,6,446,Leszn
 Aleksandra Banaszak,ks start gostyń,F,Młodziczki,322,124,16,446,Leszno,MP Młodzików,2015/16,12
 Alicja Michalska,kk dziewiątka-amica wronki,F,Młodziczki,320,126,11,446,Wronki,Turniej Świąteczny,2014/15,12
 Dominik Cyniak,ks pilica tomaszów mazowiecki,M,Juniorzy młodsi,313,132,11,445,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Aleksandra Przybyła,ks pilica tomaszów mazowiecki,F,Młodziczki,309,136,20,445,Wronki,Puchar Wronek,2016/17,3
 Szymon Banaszak,ks start gostyń,M,Młodzicy,333,112,18,445,Wronki,Puchar Wronek,2012/13,4
 Szymon Banaszak,ks start gostyń,M,Młodzicy,333,112,18,445,Wronki,Puchar Wronek,2014/15,3
 Jan Klemenski,kk dziewiątka-amica wronki,M,Młodzicy,322,123,8,445,Wronki,Puchar Wronek,2015/16,3
@@ -2250,7 +2115,6 @@ Agata Wróbel,uks jedynka świebodzice,F,Juniorki młodsze,300,145,16,445,Leszno
 Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,311,134,9,445,Leszno,MP Młodzików,2015/16,12
 Sandra Mrowiec,osir vector tarnowo podgórne,F,Juniorki młodsze,335,109,20,444,Leszno,Memoriał,2016/17,4
 Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Juniorzy młodsi,302,142,13,444,Sieraków,Puchar Starosty,2016/17,4
-Mateusz Grzywaczewski,kk dziewiątka-amica wronki,M,Młodzicy,325,119,11,444,Wronki,Puchar Wronek,2016/17,3
 Maciej Kaszkowiak,kk dziewiątka-amica wronki,M,Młodzicy,307,137,18,444,Wronki,Puchar Wronek,2012/13,4
 Patryk Rostankowski,mlks tucholanka tuchola,M,Młodzicy,314,130,12,444,Wronki,Puchar Wronek,2012/13,4
 Szymon Borowski,uks kormoran sieraków,M,Młodzicy,314,130,20,444,Wronki,Puchar Wronek,2013/14,2
@@ -2286,7 +2150,6 @@ Wiktor Piwowarczyk,ks pilica tomaszów mazowiecki,M,Młodzicy,316,126,16,442,Wro
 Alicja Michalska,kk dziewiątka-amica wronki,F,Młodziczki,318,124,17,442,Wronki,MP Młodzików,2014/15,12
 Miłosz Piwoński,mlks tucholanka tuchola,M,Juniorzy młodsi,299,142,15,441,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Wojciech Nowak,ks start gostyń,M,Młodzicy,317,124,15,441,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Marcin Mizgała,ks polonia łaziska górne,M,Juniorzy młodsi,321,120,15,441,Wronki,Puchar Wronek,2016/17,3
 Kevin Prętki,kk dziewiątka-amica wronki,M,Młodzicy,318,123,21,441,Tuchola,MP Młodzików,2016/17,11
 Marcin Fraś,kk dziewiątka-amica wronki,M,Młodzicy,341,100,21,441,Tuchola,MP Młodzików,2016/17,11
 Marta Gołębiewska,ks zatoka puck,F,Juniorki młodsze,323,118,15,441,Wronki,Puchar Wronek,2013/14,2
@@ -2300,7 +2163,6 @@ Mateusz Radzi,kk dziewiątka-amica wronki,M,Młodzicy,320,121,20,441,Leszno,Memo
 Marta Stachowiak,osir vector tarnowo podgórne,F,Młodziczki,351,90,27,441,Leszno,MP Młodzików,2015/16,12
 Marika Dudzik,ks polonia 1912 leszno,F,Młodziczki,320,121,17,441,Leszno,MP Młodzików,2015/16,12
 Jagoda Dziamska,osir vector tarnowo podgórne,F,Juniorki młodsze,306,134,14,440,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Natalia Schweissing,mlks tucholanka tuchola,F,Młodziczki,329,111,19,440,Wronki,Puchar Wronek,2016/17,3
 Aleksander Kulesza,mlks tucholanka tuchola,M,Młodzicy,314,126,12,440,Wronki,Puchar Wronek,2012/13,4
 Aleksander Kulesza,mlks tucholanka tuchola,M,Młodzicy,314,126,12,440,Wronki,Puchar Wronek,2014/15,3
 Natalia Schweissing,mlks tucholanka tuchola,F,Młodziczki,329,111,19,440,Wronki,Puchar Wronek,2016/17,3
@@ -2316,7 +2178,6 @@ Jan Klemenski,kk dziewiątka-amica wronki,M,Młodzicy,319,121,15,440,Leszno,Memo
 Konrad Stachecki,ks zatoka puck,M,Młodzicy,312,128,18,440,Leszno,MP Młodzików,2015/16,12
 Łukasz Erkier,ks polonia łaziska górne,M,Juniorzy młodsi,321,118,20,439,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Patryk Mrowiec,osir vector tarnowo podgórne,M,Juniorzy młodsi,325,114,15,439,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Marcin Fraś,kk dziewiątka-amica wronki,M,Młodzicy,319,120,17,439,Wronki,Puchar Wronek,2016/17,3
 Jakub Moliński,kk dziewiątka-amica wronki,M,Młodzicy,304,135,14,439,Tuchola,MP Młodzików,2016/17,11
 Aleksandra Banaszak,ks start gostyń,F,Młodziczki,312,127,12,439,Tuchola,MP Młodzików,2016/17,11
 Iwona Dziamska,osir vector tarnowo podgórne,F,Młodziczki,305,134,13,439,Tuchola,MP Młodzików,2016/17,11
@@ -2327,8 +2188,6 @@ Maciej Olczyk,kk dziewiątka-amica wronki,M,Młodzicy,326,113,18,439,Leszno,Memo
 Nicole Wieczorek,uks jedynka świebodzice,F,Młodziczki,301,138,15,439,Leszno,Memoriał,2013/14,3
 Jakub Molik,kk wrzos sieraków,M,Młodzicy,312,126,16,438,Sieraków,Puchar Starosty,2016/17,4
 Kevin Prętki,kk dziewiątka-amica wronki,M,Młodzicy,333,105,20,438,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Natalia Nowak,kk wrzos sieraków,F,Juniorki młodsze,312,126,12,438,Wronki,Puchar Wronek,2016/17,3
-Alan Bryćko,kk dziewiątka-amica wronki,M,Młodzicy,328,110,18,438,Wronki,Puchar Wronek,2016/17,3
 Wojciech Anklam,kk dziewiątka-amica wronki,M,Młodzicy,324,114,15,438,Tuchola,MP Młodzików,2016/17,11
 Natalia Schweissing,mlks tucholanka tuchola,F,Młodziczki,323,115,15,438,Tuchola,MP Młodzików,2016/17,11
 Dawid Kłosowski,mlks tucholanka tuchola,M,Młodzicy,302,136,14,438,Wronki,Puchar Wronek,2012/13,4
@@ -2357,7 +2216,6 @@ Sandra Mrowiec,osir vector tarnowo podgórne,F,Młodziczki,317,120,16,437,Wronki
 Weronika Paszyk,kk wrzos sieraków,F,Juniorki młodsze,312,124,21,436,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Mateusz Grzywaczewski,kk dziewiątka-amica wronki,M,Młodzicy,306,130,14,436,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Emilia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,317,119,15,436,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Jakub Moliński,kk dziewiątka-amica wronki,M,Młodzicy,316,120,18,436,Wronki,Puchar Wronek,2016/17,3
 Natalia Woźniak,mlks tucholanka tuchola,F,Młodziczki,333,103,20,436,Wronki,Puchar Wronek,2012/13,4
 Natalia Woźniak,mlks tucholanka tuchola,F,Młodziczki,333,103,20,436,Wronki,Puchar Wronek,2014/15,3
 Jakub Moliński,kk dziewiątka-amica wronki,M,Młodzicy,316,120,18,436,Wronki,Puchar Wronek,2016/17,3
@@ -2378,9 +2236,6 @@ Angelika Wojtaszek,ks pilica tomaszów mazowiecki,F,Młodziczki,308,127,15,435,L
 Łukasz Bacza,ks polonia łaziska górne,M,Młodzicy,307,128,21,435,Leszno,Memoriał,2014/15,4
 Mateusz Grzywaczewski,kk dziewiątka-amica wronki,M,Młodzicy,316,119,15,435,Wronki,MP Młodzików,2014/15,12
 Rafał Olejniczak,kk dziewiątka-amica wronki,M,Młodzicy,319,115,8,434,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Kinga Klimek,ks pilica tomaszów mazowiecki,F,Młodziczki,323,111,23,434,Wronki,Puchar Wronek,2016/17,3
-Nikola Przybyła,ks pilica tomaszów mazowiecki,F,Młodziczki,326,108,18,434,Wronki,Puchar Wronek,2016/17,3
-Izabela Cebula,bosir brzesko,F,Młodziczki,333,101,19,434,Wronki,Puchar Wronek,2016/17,3
 Jarosław Špicner,skk primator nachod,M,Młodzicy,296,138,5,434,Wronki,Puchar Wronek,2013/14,2
 Kamil Kaczmarek,kk dziewiątka-amica wronki,M,Młodzicy,306,128,15,434,Wronki,Puchar Wronek,2015/16,3
 Kinga Klimek,ks pilica tomaszów mazowiecki,F,Młodziczki,323,111,23,434,Wronki,Puchar Wronek,2016/17,3
@@ -2395,7 +2250,6 @@ Julia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,313,121,18,434,Gostyń
 Małgorzata Kompa,ks pilica tomaszów mazowiecki,F,Młodziczki,317,117,19,434,Gostyń,Memoriał,2016/17,11
 Kateřina Gintarová,skk primator nachod,F,Młodziczki,325,109,17,434,Gostyń,Memoriał,2016/17,11
 Weronika Torka,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,331,103,19,434,Leszno,Memoriał,2014/15,4
-Zuzanna Kucz,osir vector tarnowo podgórne,F,Młodziczki,292,141,18,433,Wronki,Puchar Wronek,2016/17,3
 Iwona Dziamska,osir vector tarnowo podgórne,F,Młodziczki,298,135,11,433,Tuchola,MP Młodzików,2016/17,11
 Karolina Woźniak,mlks tucholanka tuchola,F,Juniorki młodsze,313,120,13,433,Wronki,Puchar Wronek,2012/13,4
 Karolina Woźniak,mlks tucholanka tuchola,F,Juniorki młodsze,313,120,13,433,Wronki,Puchar Wronek,2014/15,3
@@ -2404,7 +2258,6 @@ Klaudia Wiśniewska,ks czarna kula poznań,F,Juniorki młodsze,319,114,22,433,Le
 Anna Łochowicz,ks polonia 1912 leszno,F,Młodziczki,303,130,19,433,Gostyń,Memoriał,2014/15,11
 Artur Dziamski,osir vector tarnowo podgórne,M,Młodzicy,310,123,26,433,Gostyń,Memoriał,2016/17,11
 Aleksandra Banaszak,ks start gostyń,F,Młodziczki,304,129,15,433,Gostyń,Memoriał,2016/17,11
-Patryk Dworczyk,osir vector tarnowo podgórne,M,Młodzicy,336,96,26,432,Wronki,Puchar Wronek,2016/17,3
 Piotr Kraczewski,ks polonia 1912 leszno,M,Młodzicy,315,117,20,432,Tuchola,MP Młodzików,2016/17,11
 Patryk Dworczyk,osir vector tarnowo podgórne,M,Młodzicy,336,96,26,432,Wronki,Puchar Wronek,2016/17,3
 Mateusz Bartkowiak,osir vector tarnowo podgórne,M,Młodzicy,330,102,17,432,Leszno,MP Młodzików,2013/14,12
@@ -2444,7 +2297,6 @@ Weronika Torka,ks alfa-vector tarnowo podgórne,F,Juniorki młodsze,317,112,19,4
 Alicja Michalska,kk dziewiątka-amica wronki,F,Młodziczki,276,153,11,429,Leszno,Memoriał,2014/15,4
 Dominik Nowicki,kk dziewiątka-amica wronki,M,Młodzicy,309,120,19,429,Leszno,MP Młodzików,2015/16,12
 Jagoda Dziamska,osir vector tarnowo podgórne,F,Juniorki młodsze,334,94,24,428,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Maciej Sawala,kk dziewiątka-amica wronki,M,Młodzicy,298,130,17,428,Wronki,Puchar Wronek,2016/17,3
 Wiktoria Skrzypkowiak,kk dziewiątka-amica wronki,F,Młodziczki,298,130,13,428,Wronki,Puchar Wronek,2013/14,2
 Łukasz Szweda,mlks tucholanka tuchola,M,Młodzicy,289,139,8,428,Wronki,Puchar Wronek,2015/16,3
 Antoni Grzegorski,ks czarna kula poznań,M,Młodzicy,311,117,19,428,Wronki,Puchar Wronek,2015/16,3
@@ -2478,7 +2330,6 @@ Antoni Dura,uks kormoran sieraków,M,Młodzicy,302,124,21,426,Gostyń,Memoriał,
 Olimpia Haładuda,uks kormoran sieraków,F,Juniorki młodsze,295,131,18,426,Leszno,Memoriał,2013/14,3
 Karolina Wasik,kk dziewiątka-amica wronki,F,Młodziczki,317,109,18,426,Leszno,Memoriał,2013/14,3
 Julia Paszyk,kk dziewiątka-amica wronki,F,Juniorki młodsze,294,131,12,425,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
-Szymon Spryszyński,ks zatoka puck,M,Młodzicy,307,118,20,425,Wronki,Puchar Wronek,2016/17,3
 Weronika Kędziora,ks czarna kula poznań,F,Juniorki młodsze,319,106,18,425,Wronki,Puchar Wronek,2012/13,4
 Weronika Kędziora,ks czarna kula poznań,F,Młodziczki,313,112,15,425,Wronki,Puchar Wronek,2013/14,2
 Miłosz Matysiak,tkkf platan pleszew,M,Juniorzy młodsi,294,131,17,425,Wronki,Puchar Wronek,2013/14,2
@@ -2495,7 +2346,6 @@ Karol Kube,ks polonia 1912 leszno,M,Młodzicy,321,104,24,425,Leszno,Memoriał,20
 Mikołaj Szczepski,kk dziewiątka-amica wronki,M,Juniorzy młodsi,321,103,19,424,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Juniorzy młodsi,319,105,18,424,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
 Nikodem Korzeniewski,mlks tucholanka tuchola,M,Młodzicy,323,101,25,424,Wronki,Puchar Wronek,2016/17,3
-Nikodem Korzeniewski,mlks tucholanka tuchola,M,Młodzicy,323,101,25,424,Wronki,Puchar Wronek,2016/17,3
 Wiktor Piwowarczyk,ks pilica tomaszów mazowiecki,M,Młodzicy,305,119,16,424,Gostyń,Memoriał,2015/16,11
 Karolina Sarbak,kk dziewiątka-amica wronki,F,Młodziczki,303,121,17,424,Gostyń,Memoriał,2014/15,11
 Aleksandra Metlicka,mlks tucholanka tuchola,F,Młodziczki,312,112,17,424,Gostyń,Memoriał,2014/15,11
@@ -2506,7 +2356,6 @@ Wiktor Piwowarczyk,ks pilica tomaszów mazowiecki,M,Młodzicy,286,138,18,424,Les
 Marcin Mizgała,ks polonia łaziska górne,M,Juniorzy młodsi,307,116,19,423,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Agnieszka Krefft,tpk wejherowo,F,Juniorki młodsze,312,111,16,423,Tomaszów Mazowiecki,MP Juniorów Młodszych,2016/17,4
 Natalia Nowak,kk wrzos sieraków,F,Juniorki młodsze,297,126,16,423,Sieraków,Puchar Starosty,2016/17,4
-Mikołaj Kubiak,osir vector tarnowo podgórne,M,Młodzicy,310,113,23,423,Wronki,Puchar Wronek,2016/17,3
 Michał Skalski,ks pilica tomaszów mazowiecki,M,Młodzicy,320,103,23,423,Tuchola,MP Młodzików,2016/17,11
 Mikołaj Kubiak,osir vector tarnowo podgórne,M,Młodzicy,310,113,23,423,Wronki,Puchar Wronek,2016/17,3
 Filip Szkudlarek,ks start gostyń,M,Młodzicy,299,124,17,423,Gostyń,Turniej Świąteczny,2013/14,12
@@ -2515,7 +2364,6 @@ Nicole Wieczorek,uks jedynka świebodzice,F,Juniorki młodsze,306,117,19,423,Les
 Aleksandra Metlicka,mlks tucholanka tuchola,F,Młodziczki,303,120,19,423,Leszno,Memoriał,2014/15,4
 Artur Dziamski,osir vector tarnowo podgórne,M,Młodzicy,313,110,16,423,Leszno,MP Młodzików,2015/16,12
 Aleksandra Fojud,kk dziewiątka-amica wronki,F,Młodziczki,301,121,20,422,Tarnowo Podgórne,Turniej Świąteczny,2016/17,12
-Sandra Ryś,osir vector tarnowo podgórne,F,Młodziczki,311,111,17,422,Wronki,Puchar Wronek,2016/17,3
 Aleksandra Fojud,kk dziewiątka-amica wronki,F,Młodziczki,309,113,16,422,Tuchola,MP Młodzików,2016/17,11
 Szymon Banaszak,ks start gostyń,M,Młodzicy,324,98,21,422,Wronki,Puchar Wronek,2013/14,2
 Łukasz Erkier,ks polonia łaziska górne,M,Młodzicy,300,122,7,422,Wronki,Puchar Wronek,2015/16,3
@@ -2552,11 +2400,9 @@ Mateusz Gromadecki,osir vector tarnowo podgórne,M,Juniorzy młodsi,303,114,23,4
 Piotr Kraczewski,ks polonia 1912 leszno,M,Młodzicy,314,103,21,417,Gostyń,Memoriał,2016/17,11
 Aleksander Kulesza,mlks tucholanka tuchola,M,Młodzicy,303,114,17,417,Leszno,MP Młodzików,2015/16,12
 Marika Dudzik,ks polonia 1912 leszno,F,Młodziczki,299,117,15,416,Wronki,Puchar Wronek,2016/17,3
-Marika Dudzik,ks polonia 1912 leszno,F,Młodziczki,299,117,15,416,Wronki,Puchar Wronek,2016/17,3
 Natalia Woźniak,mlks tucholanka tuchola,F,Juniorki młodsze,288,128,13,416,Gostyń,MP Juniorów Młodszych,2015/16,4
 Maciej Sawala,kk dziewiątka-amica wronki,M,Młodzicy,304,112,20,416,Tarnowo Podgórne,MMM,2015/16,4
 Julia Konieczna,kk dziewiątka-amica wronki,F,Młodziczki,305,111,12,416,Tarnowo Podgórne,MMM,2015/16,4
-Magdalena Wysocka,mlks tucholanka tuchola,F,Młodziczki,342,73,33,415,Wronki,Puchar Wronek,2016/17,3
 Bartosz Grzona,mlks tucholanka tuchola,M,Młodzicy,313,102,21,415,Wronki,Puchar Wronek,2012/13,4
 Klaudia Wiśniewska,ks czarna kula poznań,F,Juniorki młodsze,294,121,13,415,Wronki,Puchar Wronek,2012/13,4
 Bartosz Grzona,mlks tucholanka tuchola,M,Młodzicy,313,102,21,415,Wronki,Puchar Wronek,2014/15,3
@@ -2565,7 +2411,6 @@ Magdalena Wysocka,mlks tucholanka tuchola,F,Młodziczki,342,73,33,415,Wronki,Puc
 Agnieszka Krefft,tpk wejherowo,F,Juniorki młodsze,317,98,24,415,Gostyń,MP Juniorów Młodszych,2015/16,4
 Hubert Cypel,kk dziewiątka-amica wronki,M,Młodzicy,294,121,26,415,Leszno,Memoriał,2013/14,3
 Szymon Banaszak,ks start gostyń,M,Młodzicy,303,112,20,415,Leszno,Memoriał,2013/14,3
-Iwona Dziamska,osir vector tarnowo podgórne,F,Młodziczki,293,121,18,414,Wronki,Puchar Wronek,2016/17,3
 Iwona Dziamska,osir vector tarnowo podgórne,F,Młodziczki,293,121,18,414,Wronki,Puchar Wronek,2016/17,3
 Angelika Przybysz,kk dziewiątka-amica wronki,F,Młodziczki,304,110,16,414,Gostyń,Memoriał,2015/16,11
 Gracjan Henschel,ks czarna kula poznań,M,Juniorzy młodsi,304,110,20,414,Gostyń,Memoriał,2014/15,11
@@ -2709,8 +2554,6 @@ Remigiusz Kubiak,kk dziewiątka-amica wronki,M,Młodzicy,287,96,19,383,Wronki,Pu
 Remigiusz Kubiak,kk dziewiątka-amica wronki,M,Młodzicy,287,96,19,383,Wronki,Puchar Wronek,2014/15,3
 Szymon Borowski,uks kormoran sieraków,M,Młodzicy,266,117,24,383,Gostyń,Turniej Świąteczny,2013/14,12
 Klaudia Księżyk,tpk wejherowo,F,Młodziczki,303,80,24,383,Gostyń,Memoriał,2015/16,11
-Julia Liżewska,ks polonia łaziska górne,F,Juniorki młodsze,285,97,27,382,Wronki,Puchar Wronek,2016/17,3
-Norbert Ormanin,ks polonia łaziska górne,M,Młodzicy,281,101,23,382,Wronki,Puchar Wronek,2016/17,3
 Norbert Ormanin,ks polonia łaziska górne,M,Młodzicy,281,101,23,382,Wronki,Puchar Wronek,2016/17,3
 Julia Liżewska,ks polonia łaziska górne,F,Juniorki młodsze,285,97,27,382,Wronki,Puchar Wronek,2016/17,3
 Dagmara Czepczor,kk dziewiątka-amica wronki,F,Młodziczki,267,115,13,382,Wronki,MP Młodzików,2014/15,12
@@ -2751,7 +2594,6 @@ Karolina Szwarc,uks jedynka świebodzice,F,Juniorki młodsze,281,90,25,371,Leszn
 Marcelina Stróżyńska,ks polonia 1912 leszno,F,Juniorki młodsze,278,92,25,370,Gostyń,Memoriał,2016/17,11
 Jakub Śmiglak,uks kormoran sieraków,M,Młodzicy,282,88,27,370,Leszno,Memoriał,2013/14,3
 Daria Strzoda,ks polonia łaziska górne,F,Młodziczki,263,106,22,369,Wronki,Puchar Wronek,2016/17,3
-Daria Strzoda,ks polonia łaziska górne,F,Młodziczki,263,106,22,369,Wronki,Puchar Wronek,2016/17,3
 Mikołaj Kubiak,osir vector tarnowo podgórne,M,Młodzicy,274,94,25,368,Gostyń,Memoriał,2015/16,11
 Magdalena Wysocka,mlks tucholanka tuchola,F,Młodziczki,290,77,27,367,Tuchola,MP Młodzików,2016/17,11
 Agnieszka Krefft,tpk wejherowo,F,Młodziczki,246,121,20,367,Gostyń,Memoriał,2014/15,11
@@ -2759,7 +2601,6 @@ Mikołaj Kubiak,osir vector tarnowo podgórne,M,Młodzicy,271,96,23,367,Leszno,M
 Weronika Szczerkowska,tpk wejherowo,F,Młodziczki,255,110,18,365,Wronki,MP Młodzików,2014/15,12
 Mateusz Ptak,ks start gostyń,M,Młodzicy,259,105,31,364,Gostyń,Memoriał,2016/17,11
 Iwona Dziamska,osir vector tarnowo podgórne,F,Młodziczki,282,82,29,364,Leszno,MP Młodzików,2015/16,12
-Kacper Krupka,kk dziewiątka-amica wronki,M,Młodzicy,272,91,26,363,Wronki,Puchar Wronek,2016/17,3
 Kacper Krupka,kk dziewiątka-amica wronki,M,Młodzicy,272,91,26,363,Wronki,Puchar Wronek,2016/17,3
 Dawid Filipiszyn,uks jedynka świebodzice,M,Młodzicy,277,86,32,363,Tarnowo Podgórne,MMM,2015/16,4
 Klaudia Wiśniewska,ks czarna kula poznań,F,Juniorki młodsze,245,118,16,363,Leszno,Memoriał,2014/15,4
@@ -2801,7 +2642,6 @@ Sandra Klahs,tpk wejherowo,F,Młodziczki,249,70,35,319,Leszno,MP Młodzików,201
 Kamil Nowicki,uks jedynka świebodzice,M,Młodzicy,231,87,34,318,Tarnowo Podgórne,MMM,2015/16,4
 Daria Jackowska,uks jedynka świebodzice,F,Młodziczki,247,70,38,317,Tuchola,MP Młodzików,2016/17,11
 Magdalena Dziura,uks jedynka świebodzice,F,Juniorki młodsze,230,87,31,317,Leszno,Memoriał,2014/15,4
-Mateusz Molik,kk wrzos sieraków,M,Młodzicy,236,79,30,315,Wronki,Puchar Wronek,2016/17,3
 Mateusz Molik,kk wrzos sieraków,M,Młodzicy,236,79,30,315,Wronki,Puchar Wronek,2016/17,3
 Maciej Olczyk,kk dziewiątka-amica wronki,M,Młodzicy,251,64,9,315,Leszno,Memoriał,2014/15,4
 Wiktoria Partyka,uks jedynka świebodzice,F,Młodziczki,245,67,39,312,Tarnowo Podgórne,MMM,2015/16,4
